@@ -1,0 +1,1661 @@
+2020-01-01 20:34:30 INFO  BankMain:588 - Welcome to the Banking App
+2020-01-01 20:34:30 INFO  BankMain:589 - ---------------------------------
+2020-01-01 20:34:30 INFO  BankMain:60 - Please enter your username or 'quit' to exit the application: 
+2020-01-01 20:34:33 INFO  BankMain:67 - Please enter your password or 'quit' to exit the application: 
+2020-01-01 20:34:34 INFO  BankMain:70 - Welcome, tee
+2020-01-01 20:34:34 INFO  BankMain:40 - User Options: 
+2020-01-01 20:34:34 INFO  BankMain:47 - 	1. Customer options
+2020-01-01 20:34:34 INFO  BankMain:51 - 	2. Employee options
+2020-01-01 20:34:34 INFO  BankMain:54 - 	3. Quit
+2020-01-01 20:34:35 INFO  BankMain:598 - Thank you for using Banking App. Please come again soon.
+2020-01-01 22:23:38 INFO  BankMain:588 - Welcome to the Banking App
+2020-01-01 22:23:38 INFO  BankMain:589 - ---------------------------------
+2020-01-01 22:23:38 INFO  BankMain:60 - Please enter your username or 'quit' to exit the application: 
+2020-01-01 22:23:41 INFO  BankMain:67 - Please enter your password or 'quit' to exit the application: 
+2020-01-01 22:23:42 INFO  BankMain:70 - Welcome, tee
+2020-01-01 22:23:42 INFO  BankMain:40 - User Options: 
+2020-01-01 22:23:42 INFO  BankMain:47 - 	1. Customer options
+2020-01-01 22:23:42 INFO  BankMain:51 - 	2. Employee options
+2020-01-01 22:23:42 INFO  BankMain:54 - 	3. Quit
+2020-01-01 22:23:44 INFO  BankMain:22 - Employee Options:
+2020-01-01 22:23:44 INFO  BankMain:23 - 	1. Account approval and rejection
+2020-01-01 22:23:44 INFO  BankMain:24 - 	2. View a customer's bank accounts
+2020-01-01 22:23:44 INFO  BankMain:25 - 	3. Log of transactions
+2020-01-01 22:23:44 INFO  BankMain:26 - 	4. Back to user options
+2020-01-01 22:23:45 INFO  BankMain:519 - Transaction log: 
+2020-01-01 22:23:45 INFO  BankMain:520 - 	Transaction ID	Transaction Date	Transaction Type	Amount	Account 1 ID	 Account 2 ID
+2020-01-01 22:23:45 INFO  BankMain:598 - Thank you for using Banking App. Please come again soon.
+2020-01-01 22:29:41 INFO  BankMain:588 - Welcome to the Banking App
+2020-01-01 22:29:41 INFO  BankMain:589 - ---------------------------------
+2020-01-01 22:29:41 INFO  BankMain:60 - Please enter your username or 'quit' to exit the application: 
+2020-01-01 22:29:45 INFO  BankMain:67 - Please enter your password or 'quit' to exit the application: 
+2020-01-01 22:29:46 INFO  BankMain:70 - Welcome, tee
+2020-01-01 22:29:46 INFO  BankMain:40 - User Options: 
+2020-01-01 22:29:46 INFO  BankMain:47 - 	1. Customer options
+2020-01-01 22:29:46 INFO  BankMain:51 - 	2. Employee options
+2020-01-01 22:29:46 INFO  BankMain:54 - 	3. Quit
+2020-01-01 22:29:47 INFO  BankMain:22 - Employee Options:
+2020-01-01 22:29:47 INFO  BankMain:23 - 	1. Account approval and rejection
+2020-01-01 22:29:47 INFO  BankMain:24 - 	2. View a customer's bank accounts
+2020-01-01 22:29:47 INFO  BankMain:25 - 	3. Log of transactions
+2020-01-01 22:29:47 INFO  BankMain:26 - 	4. Back to user options
+2020-01-01 22:29:48 INFO  BankMain:519 - Transaction log: 
+2020-01-01 22:29:48 INFO  BankMain:520 - 	Transaction ID	Transaction Date	Transaction Type	Amount	Account 1 ID	 Account 2 ID
+2020-01-01 22:29:48 INFO  BankMain:525 - 	                           1001 	 2019-12-28 	                        deposit 	                             10 	                           1002 	                           null
+2020-01-01 22:29:48 INFO  BankMain:525 - 	                           1002 	 2019-12-28 	                     withdrawal 	                             20 	                           1002 	                           null
+2020-01-01 22:29:48 INFO  BankMain:525 - 	                           1003 	 2019-12-29 	                        deposit 	                             99 	                           1000 	                           null
+2020-01-01 22:29:48 INFO  BankMain:525 - 	                           1004 	 2019-12-30 	                     withdrawal 	                              9 	                           1006 	                           null
+2020-01-01 22:29:48 INFO  BankMain:525 - 	                           1005 	 2019-12-30 	                        deposit 	                              9 	                           1006 	                           null
+2020-01-01 22:29:48 INFO  BankMain:525 - 	                           1006 	 2019-12-30 	                     withdrawal 	                              9 	                           1006 	                           null
+2020-01-01 22:29:48 INFO  BankMain:525 - 	                           1007 	 2019-12-30 	                        deposit 	                              9 	                           1006 	                           null
+2020-01-01 22:29:48 INFO  BankMain:525 - 	                           1008 	 2019-12-30 	                     withdrawal 	                              9 	                           1006 	                           null
+2020-01-01 22:29:48 INFO  BankMain:525 - 	                           1009 	 2019-12-30 	                        deposit 	                              9 	                           1006 	                           null
+2020-01-01 22:29:48 INFO  BankMain:525 - 	                           1010 	 2019-12-31 	                        deposit 	                            100 	                           1007 	                           null
+2020-01-01 22:29:48 INFO  BankMain:525 - 	                           1011 	 2019-12-31 	                       TRANSFER 	                             10 	                           1000 	                           1005
+2020-01-01 22:29:48 INFO  BankMain:525 - 	                           1013 	 2019-12-31 	                       transfer 	                             10 	                           1005 	                           1000
+2020-01-01 22:29:48 INFO  BankMain:525 - 	                           1014 	 2019-12-31 	                       transfer 	                             30 	                           1000 	                           1002
+2020-01-01 22:29:48 INFO  BankMain:525 - 	                           1015 	 2020-01-01 	                     withdrawal 	                              9 	                           1006 	                           null
+2020-01-01 22:29:48 INFO  BankMain:525 - 	                           1016 	 2020-01-01 	                        deposit 	                              9 	                           1006 	                           null
+2020-01-01 22:29:48 INFO  BankMain:525 - 	                           1017 	 2020-01-01 	                       transfer 	                              9 	                           1006 	                           1000
+2020-01-01 22:29:48 INFO  BankMain:525 - 	                           1018 	 2020-01-01 	                        deposit 	                             20 	                           1002 	                           null
+2020-01-01 22:29:48 INFO  BankMain:525 - 	                           1019 	 2020-01-01 	                       transfer 	                              9 	                           1000 	                           1006
+2020-01-01 22:29:48 INFO  BankMain:528 - 
+
+2020-01-01 22:29:48 INFO  BankMain:544 - Returning to employee options.
+
+2020-01-01 22:29:48 INFO  BankMain:22 - Employee Options:
+2020-01-01 22:29:48 INFO  BankMain:23 - 	1. Account approval and rejection
+2020-01-01 22:29:48 INFO  BankMain:24 - 	2. View a customer's bank accounts
+2020-01-01 22:29:48 INFO  BankMain:25 - 	3. Log of transactions
+2020-01-01 22:29:48 INFO  BankMain:26 - 	4. Back to user options
+2020-01-01 22:30:00 INFO  BankMain:588 - Welcome to the Banking App
+2020-01-01 22:30:00 INFO  BankMain:589 - ---------------------------------
+2020-01-01 22:30:00 INFO  BankMain:60 - Please enter your username or 'quit' to exit the application: 
+2020-01-01 22:30:03 INFO  BankMain:67 - Please enter your password or 'quit' to exit the application: 
+2020-01-01 22:30:04 INFO  BankMain:70 - Welcome, tee
+2020-01-01 22:30:04 INFO  BankMain:40 - User Options: 
+2020-01-01 22:30:04 INFO  BankMain:47 - 	1. Customer options
+2020-01-01 22:30:04 INFO  BankMain:51 - 	2. Employee options
+2020-01-01 22:30:04 INFO  BankMain:54 - 	3. Quit
+2020-01-01 22:30:06 INFO  BankMain:22 - Employee Options:
+2020-01-01 22:30:06 INFO  BankMain:23 - 	1. Account approval and rejection
+2020-01-01 22:30:06 INFO  BankMain:24 - 	2. View a customer's bank accounts
+2020-01-01 22:30:06 INFO  BankMain:25 - 	3. Log of transactions
+2020-01-01 22:30:06 INFO  BankMain:26 - 	4. Back to user options
+2020-01-01 22:30:06 INFO  BankMain:519 - Transaction log: 
+2020-01-01 22:30:06 INFO  BankMain:520 - 	Transaction ID	Transaction Date	Transaction Type	Amount	Account 1 ID	 Account 2 ID
+2020-01-01 22:30:06 INFO  BankMain:525 - 	       1001 	 2019-12-28 	                        deposit 	                             10 	                           1002 	                           null
+2020-01-01 22:30:06 INFO  BankMain:525 - 	       1002 	 2019-12-28 	                     withdrawal 	                             20 	                           1002 	                           null
+2020-01-01 22:30:06 INFO  BankMain:525 - 	       1003 	 2019-12-29 	                        deposit 	                             99 	                           1000 	                           null
+2020-01-01 22:30:06 INFO  BankMain:525 - 	       1004 	 2019-12-30 	                     withdrawal 	                              9 	                           1006 	                           null
+2020-01-01 22:30:06 INFO  BankMain:525 - 	       1005 	 2019-12-30 	                        deposit 	                              9 	                           1006 	                           null
+2020-01-01 22:30:06 INFO  BankMain:525 - 	       1006 	 2019-12-30 	                     withdrawal 	                              9 	                           1006 	                           null
+2020-01-01 22:30:06 INFO  BankMain:525 - 	       1007 	 2019-12-30 	                        deposit 	                              9 	                           1006 	                           null
+2020-01-01 22:30:06 INFO  BankMain:525 - 	       1008 	 2019-12-30 	                     withdrawal 	                              9 	                           1006 	                           null
+2020-01-01 22:30:06 INFO  BankMain:525 - 	       1009 	 2019-12-30 	                        deposit 	                              9 	                           1006 	                           null
+2020-01-01 22:30:06 INFO  BankMain:525 - 	       1010 	 2019-12-31 	                        deposit 	                            100 	                           1007 	                           null
+2020-01-01 22:30:06 INFO  BankMain:525 - 	       1011 	 2019-12-31 	                       TRANSFER 	                             10 	                           1000 	                           1005
+2020-01-01 22:30:06 INFO  BankMain:525 - 	       1013 	 2019-12-31 	                       transfer 	                             10 	                           1005 	                           1000
+2020-01-01 22:30:06 INFO  BankMain:525 - 	       1014 	 2019-12-31 	                       transfer 	                             30 	                           1000 	                           1002
+2020-01-01 22:30:06 INFO  BankMain:525 - 	       1015 	 2020-01-01 	                     withdrawal 	                              9 	                           1006 	                           null
+2020-01-01 22:30:06 INFO  BankMain:525 - 	       1016 	 2020-01-01 	                        deposit 	                              9 	                           1006 	                           null
+2020-01-01 22:30:06 INFO  BankMain:525 - 	       1017 	 2020-01-01 	                       transfer 	                              9 	                           1006 	                           1000
+2020-01-01 22:30:06 INFO  BankMain:525 - 	       1018 	 2020-01-01 	                        deposit 	                             20 	                           1002 	                           null
+2020-01-01 22:30:06 INFO  BankMain:525 - 	       1019 	 2020-01-01 	                       transfer 	                              9 	                           1000 	                           1006
+2020-01-01 22:30:06 INFO  BankMain:528 - 
+
+2020-01-01 22:30:06 INFO  BankMain:544 - Returning to employee options.
+
+2020-01-01 22:30:06 INFO  BankMain:22 - Employee Options:
+2020-01-01 22:30:06 INFO  BankMain:23 - 	1. Account approval and rejection
+2020-01-01 22:30:06 INFO  BankMain:24 - 	2. View a customer's bank accounts
+2020-01-01 22:30:06 INFO  BankMain:25 - 	3. Log of transactions
+2020-01-01 22:30:06 INFO  BankMain:26 - 	4. Back to user options
+2020-01-01 22:30:24 INFO  BankMain:588 - Welcome to the Banking App
+2020-01-01 22:30:24 INFO  BankMain:589 - ---------------------------------
+2020-01-01 22:30:24 INFO  BankMain:60 - Please enter your username or 'quit' to exit the application: 
+2020-01-01 22:30:28 INFO  BankMain:67 - Please enter your password or 'quit' to exit the application: 
+2020-01-01 22:30:29 INFO  BankMain:70 - Welcome, tee
+2020-01-01 22:30:29 INFO  BankMain:40 - User Options: 
+2020-01-01 22:30:29 INFO  BankMain:47 - 	1. Customer options
+2020-01-01 22:30:29 INFO  BankMain:51 - 	2. Employee options
+2020-01-01 22:30:29 INFO  BankMain:54 - 	3. Quit
+2020-01-01 22:30:30 INFO  BankMain:22 - Employee Options:
+2020-01-01 22:30:30 INFO  BankMain:23 - 	1. Account approval and rejection
+2020-01-01 22:30:30 INFO  BankMain:24 - 	2. View a customer's bank accounts
+2020-01-01 22:30:30 INFO  BankMain:25 - 	3. Log of transactions
+2020-01-01 22:30:30 INFO  BankMain:26 - 	4. Back to user options
+2020-01-01 22:30:31 INFO  BankMain:519 - Transaction log: 
+2020-01-01 22:30:31 INFO  BankMain:520 - 	Transaction ID	Transaction Date	Transaction Type	Amount	Account 1 ID	 Account 2 ID
+2020-01-01 22:30:31 INFO  BankMain:525 - 	       1001 	 2019-12-28 	    deposit 	         10 	       1002 	       null
+2020-01-01 22:30:31 INFO  BankMain:525 - 	       1002 	 2019-12-28 	 withdrawal 	         20 	       1002 	       null
+2020-01-01 22:30:31 INFO  BankMain:525 - 	       1003 	 2019-12-29 	    deposit 	         99 	       1000 	       null
+2020-01-01 22:30:31 INFO  BankMain:525 - 	       1004 	 2019-12-30 	 withdrawal 	          9 	       1006 	       null
+2020-01-01 22:30:31 INFO  BankMain:525 - 	       1005 	 2019-12-30 	    deposit 	          9 	       1006 	       null
+2020-01-01 22:30:31 INFO  BankMain:525 - 	       1006 	 2019-12-30 	 withdrawal 	          9 	       1006 	       null
+2020-01-01 22:30:31 INFO  BankMain:525 - 	       1007 	 2019-12-30 	    deposit 	          9 	       1006 	       null
+2020-01-01 22:30:31 INFO  BankMain:525 - 	       1008 	 2019-12-30 	 withdrawal 	          9 	       1006 	       null
+2020-01-01 22:30:31 INFO  BankMain:525 - 	       1009 	 2019-12-30 	    deposit 	          9 	       1006 	       null
+2020-01-01 22:30:31 INFO  BankMain:525 - 	       1010 	 2019-12-31 	    deposit 	        100 	       1007 	       null
+2020-01-01 22:30:31 INFO  BankMain:525 - 	       1011 	 2019-12-31 	   TRANSFER 	         10 	       1000 	       1005
+2020-01-01 22:30:31 INFO  BankMain:525 - 	       1013 	 2019-12-31 	   transfer 	         10 	       1005 	       1000
+2020-01-01 22:30:31 INFO  BankMain:525 - 	       1014 	 2019-12-31 	   transfer 	         30 	       1000 	       1002
+2020-01-01 22:30:31 INFO  BankMain:525 - 	       1015 	 2020-01-01 	 withdrawal 	          9 	       1006 	       null
+2020-01-01 22:30:31 INFO  BankMain:525 - 	       1016 	 2020-01-01 	    deposit 	          9 	       1006 	       null
+2020-01-01 22:30:31 INFO  BankMain:525 - 	       1017 	 2020-01-01 	   transfer 	          9 	       1006 	       1000
+2020-01-01 22:30:31 INFO  BankMain:525 - 	       1018 	 2020-01-01 	    deposit 	         20 	       1002 	       null
+2020-01-01 22:30:31 INFO  BankMain:525 - 	       1019 	 2020-01-01 	   transfer 	          9 	       1000 	       1006
+2020-01-01 22:30:31 INFO  BankMain:528 - 
+
+2020-01-01 22:30:31 INFO  BankMain:544 - Returning to employee options.
+
+2020-01-01 22:30:31 INFO  BankMain:22 - Employee Options:
+2020-01-01 22:30:31 INFO  BankMain:23 - 	1. Account approval and rejection
+2020-01-01 22:30:31 INFO  BankMain:24 - 	2. View a customer's bank accounts
+2020-01-01 22:30:31 INFO  BankMain:25 - 	3. Log of transactions
+2020-01-01 22:30:31 INFO  BankMain:26 - 	4. Back to user options
+2020-01-01 22:30:42 INFO  BankMain:588 - Welcome to the Banking App
+2020-01-01 22:30:42 INFO  BankMain:589 - ---------------------------------
+2020-01-01 22:30:42 INFO  BankMain:60 - Please enter your username or 'quit' to exit the application: 
+2020-01-01 22:30:45 INFO  BankMain:67 - Please enter your password or 'quit' to exit the application: 
+2020-01-01 22:30:46 INFO  BankMain:70 - Welcome, tee
+2020-01-01 22:30:46 INFO  BankMain:40 - User Options: 
+2020-01-01 22:30:46 INFO  BankMain:47 - 	1. Customer options
+2020-01-01 22:30:46 INFO  BankMain:51 - 	2. Employee options
+2020-01-01 22:30:46 INFO  BankMain:54 - 	3. Quit
+2020-01-01 22:30:47 INFO  BankMain:22 - Employee Options:
+2020-01-01 22:30:47 INFO  BankMain:23 - 	1. Account approval and rejection
+2020-01-01 22:30:47 INFO  BankMain:24 - 	2. View a customer's bank accounts
+2020-01-01 22:30:47 INFO  BankMain:25 - 	3. Log of transactions
+2020-01-01 22:30:47 INFO  BankMain:26 - 	4. Back to user options
+2020-01-01 22:30:48 INFO  BankMain:519 - Transaction log: 
+2020-01-01 22:30:48 INFO  BankMain:520 - 	Transaction ID	Transaction Date	Transaction Type	Amount	Account 1 ID	 Account 2 ID
+2020-01-01 22:30:48 INFO  BankMain:525 - 	       1001 	 2019-12-28 	              deposit 	         10 	       1002 	       null
+2020-01-01 22:30:48 INFO  BankMain:525 - 	       1002 	 2019-12-28 	           withdrawal 	         20 	       1002 	       null
+2020-01-01 22:30:48 INFO  BankMain:525 - 	       1003 	 2019-12-29 	              deposit 	         99 	       1000 	       null
+2020-01-01 22:30:48 INFO  BankMain:525 - 	       1004 	 2019-12-30 	           withdrawal 	          9 	       1006 	       null
+2020-01-01 22:30:48 INFO  BankMain:525 - 	       1005 	 2019-12-30 	              deposit 	          9 	       1006 	       null
+2020-01-01 22:30:48 INFO  BankMain:525 - 	       1006 	 2019-12-30 	           withdrawal 	          9 	       1006 	       null
+2020-01-01 22:30:48 INFO  BankMain:525 - 	       1007 	 2019-12-30 	              deposit 	          9 	       1006 	       null
+2020-01-01 22:30:48 INFO  BankMain:525 - 	       1008 	 2019-12-30 	           withdrawal 	          9 	       1006 	       null
+2020-01-01 22:30:48 INFO  BankMain:525 - 	       1009 	 2019-12-30 	              deposit 	          9 	       1006 	       null
+2020-01-01 22:30:48 INFO  BankMain:525 - 	       1010 	 2019-12-31 	              deposit 	        100 	       1007 	       null
+2020-01-01 22:30:48 INFO  BankMain:525 - 	       1011 	 2019-12-31 	             TRANSFER 	         10 	       1000 	       1005
+2020-01-01 22:30:48 INFO  BankMain:525 - 	       1013 	 2019-12-31 	             transfer 	         10 	       1005 	       1000
+2020-01-01 22:30:48 INFO  BankMain:525 - 	       1014 	 2019-12-31 	             transfer 	         30 	       1000 	       1002
+2020-01-01 22:30:48 INFO  BankMain:525 - 	       1015 	 2020-01-01 	           withdrawal 	          9 	       1006 	       null
+2020-01-01 22:30:48 INFO  BankMain:525 - 	       1016 	 2020-01-01 	              deposit 	          9 	       1006 	       null
+2020-01-01 22:30:48 INFO  BankMain:525 - 	       1017 	 2020-01-01 	             transfer 	          9 	       1006 	       1000
+2020-01-01 22:30:48 INFO  BankMain:525 - 	       1018 	 2020-01-01 	              deposit 	         20 	       1002 	       null
+2020-01-01 22:30:48 INFO  BankMain:525 - 	       1019 	 2020-01-01 	             transfer 	          9 	       1000 	       1006
+2020-01-01 22:30:48 INFO  BankMain:528 - 
+
+2020-01-01 22:30:48 INFO  BankMain:544 - Returning to employee options.
+
+2020-01-01 22:30:48 INFO  BankMain:22 - Employee Options:
+2020-01-01 22:30:48 INFO  BankMain:23 - 	1. Account approval and rejection
+2020-01-01 22:30:48 INFO  BankMain:24 - 	2. View a customer's bank accounts
+2020-01-01 22:30:48 INFO  BankMain:25 - 	3. Log of transactions
+2020-01-01 22:30:48 INFO  BankMain:26 - 	4. Back to user options
+2020-01-01 22:38:31 INFO  BankMain:535 - Returning to user options
+2020-01-01 22:38:31 INFO  BankMain:40 - User Options: 
+2020-01-01 22:38:31 INFO  BankMain:47 - 	1. Customer options
+2020-01-01 22:38:31 INFO  BankMain:51 - 	2. Employee options
+2020-01-01 22:38:31 INFO  BankMain:54 - 	3. Quit
+2020-01-01 22:38:32 INFO  BankMain:598 - Thank you for using Banking App. Please come again soon.
+2020-01-01 22:41:56 INFO  BankMain:591 - Welcome to the Banking App
+2020-01-01 22:41:56 INFO  BankMain:592 - ---------------------------------
+2020-01-01 22:41:56 INFO  BankMain:60 - Please enter your username or 'quit' to exit the application: 
+2020-01-01 22:42:00 INFO  BankMain:67 - Please enter your password or 'quit' to exit the application: 
+2020-01-01 22:42:01 INFO  BankMain:70 - Welcome, tee
+2020-01-01 22:42:01 INFO  BankMain:40 - User Options: 
+2020-01-01 22:42:01 INFO  BankMain:47 - 	1. Customer options
+2020-01-01 22:42:01 INFO  BankMain:51 - 	2. Employee options
+2020-01-01 22:42:01 INFO  BankMain:54 - 	3. Quit
+2020-01-01 22:42:02 INFO  BankMain:22 - Employee Options:
+2020-01-01 22:42:02 INFO  BankMain:23 - 	1. Account approval and rejection
+2020-01-01 22:42:02 INFO  BankMain:24 - 	2. View a customer's bank accounts
+2020-01-01 22:42:02 INFO  BankMain:25 - 	3. Log of transactions
+2020-01-01 22:42:02 INFO  BankMain:26 - 	4. Back to user options
+2020-01-01 22:42:03 INFO  BankMain:493 - Please select the customer whose accounts you wish to view or 'quit': 
+2020-01-01 22:42:03 INFO  BankMain:495 - 	1: tee
+2020-01-01 22:42:03 INFO  BankMain:495 - 	1000: s
+2020-01-01 22:42:05 INFO  BankMain:501 - 
+Displaying bank accounts for customer 1
+2020-01-01 22:42:05 INFO  BankMain:502 - 	Account ID	Account Name		Account Balance
+2020-01-01 22:42:05 INFO  BankMain:601 - Thank you for using Banking App. Please come again soon.
+2020-01-01 22:42:19 INFO  BankMain:591 - Welcome to the Banking App
+2020-01-01 22:42:19 INFO  BankMain:592 - ---------------------------------
+2020-01-01 22:42:19 INFO  BankMain:60 - Please enter your username or 'quit' to exit the application: 
+2020-01-01 22:42:23 INFO  BankMain:67 - Please enter your password or 'quit' to exit the application: 
+2020-01-01 22:42:25 INFO  BankMain:70 - Welcome, tee
+2020-01-01 22:42:25 INFO  BankMain:40 - User Options: 
+2020-01-01 22:42:25 INFO  BankMain:47 - 	1. Customer options
+2020-01-01 22:42:25 INFO  BankMain:51 - 	2. Employee options
+2020-01-01 22:42:25 INFO  BankMain:54 - 	3. Quit
+2020-01-01 22:42:26 INFO  BankMain:22 - Employee Options:
+2020-01-01 22:42:26 INFO  BankMain:23 - 	1. Account approval and rejection
+2020-01-01 22:42:26 INFO  BankMain:24 - 	2. View a customer's bank accounts
+2020-01-01 22:42:26 INFO  BankMain:25 - 	3. Log of transactions
+2020-01-01 22:42:26 INFO  BankMain:26 - 	4. Back to user options
+2020-01-01 22:42:27 INFO  BankMain:493 - Please select the customer whose accounts you wish to view or 'quit': 
+2020-01-01 22:42:27 INFO  BankMain:495 - 	1: tee
+2020-01-01 22:42:27 INFO  BankMain:495 - 	1000: s
+2020-01-01 22:42:28 INFO  BankMain:501 - 
+Displaying bank accounts for customer 1
+2020-01-01 22:42:28 INFO  BankMain:502 - 	Account ID	Account Name		Account Balance
+2020-01-01 22:42:28 INFO  BankMain:506 - 	      1006	            callable	       419
+2020-01-01 22:42:28 INFO  BankMain:506 - 	      1005	                 new	       420
+2020-01-01 22:42:28 INFO  BankMain:506 - 	      1004	                test	       404
+2020-01-01 22:42:28 INFO  BankMain:506 - 	      1002	              please	       150
+2020-01-01 22:42:28 INFO  BankMain:506 - 	      1000	                test	        50
+2020-01-01 22:42:28 INFO  BankMain:506 - 	      1022	                 pop	      2012
+2020-01-01 22:42:28 INFO  BankMain:506 - 	      1020	            2020test	      2020
+2020-01-01 22:42:28 INFO  BankMain:512 - Please select the customer whose accounts you wish to view or 'quit': 
+2020-01-01 22:42:28 INFO  BankMain:514 - 	1: tee
+2020-01-01 22:42:28 INFO  BankMain:514 - 	1000: s
+2020-01-01 22:42:47 INFO  BankMain:591 - Welcome to the Banking App
+2020-01-01 22:42:47 INFO  BankMain:592 - ---------------------------------
+2020-01-01 22:42:47 INFO  BankMain:60 - Please enter your username or 'quit' to exit the application: 
+2020-01-01 22:42:51 INFO  BankMain:67 - Please enter your password or 'quit' to exit the application: 
+2020-01-01 22:42:52 INFO  BankMain:70 - Welcome, tee
+2020-01-01 22:42:52 INFO  BankMain:40 - User Options: 
+2020-01-01 22:42:52 INFO  BankMain:47 - 	1. Customer options
+2020-01-01 22:42:52 INFO  BankMain:51 - 	2. Employee options
+2020-01-01 22:42:52 INFO  BankMain:54 - 	3. Quit
+2020-01-01 22:42:53 INFO  BankMain:22 - Employee Options:
+2020-01-01 22:42:53 INFO  BankMain:23 - 	1. Account approval and rejection
+2020-01-01 22:42:53 INFO  BankMain:24 - 	2. View a customer's bank accounts
+2020-01-01 22:42:53 INFO  BankMain:25 - 	3. Log of transactions
+2020-01-01 22:42:53 INFO  BankMain:26 - 	4. Back to user options
+2020-01-01 22:42:54 INFO  BankMain:493 - Please select the customer whose accounts you wish to view or 'quit': 
+2020-01-01 22:42:54 INFO  BankMain:495 - 	1: tee
+2020-01-01 22:42:54 INFO  BankMain:495 - 	1000: s
+2020-01-01 22:42:55 INFO  BankMain:501 - 
+Displaying bank accounts for customer 1
+2020-01-01 22:42:55 INFO  BankMain:502 - 	Account ID	Account Name		Account Balance
+2020-01-01 22:42:55 INFO  BankMain:506 - 	      1006	  callable	       419
+2020-01-01 22:42:55 INFO  BankMain:506 - 	      1005	       new	       420
+2020-01-01 22:42:55 INFO  BankMain:506 - 	      1004	      test	       404
+2020-01-01 22:42:55 INFO  BankMain:506 - 	      1002	    please	       150
+2020-01-01 22:42:55 INFO  BankMain:506 - 	      1000	      test	        50
+2020-01-01 22:42:55 INFO  BankMain:506 - 	      1022	       pop	      2012
+2020-01-01 22:42:55 INFO  BankMain:506 - 	      1020	  2020test	      2020
+2020-01-01 22:42:55 INFO  BankMain:512 - Please select the customer whose accounts you wish to view or 'quit': 
+2020-01-01 22:42:55 INFO  BankMain:514 - 	1: tee
+2020-01-01 22:42:55 INFO  BankMain:514 - 	1000: s
+2020-01-01 22:43:59 INFO  BankMain:591 - Welcome to the Banking App
+2020-01-01 22:43:59 INFO  BankMain:592 - ---------------------------------
+2020-01-01 22:43:59 INFO  BankMain:60 - Please enter your username or 'quit' to exit the application: 
+2020-01-01 22:44:02 INFO  BankMain:67 - Please enter your password or 'quit' to exit the application: 
+2020-01-01 22:44:03 INFO  BankMain:70 - Welcome, tee
+2020-01-01 22:44:03 INFO  BankMain:40 - User Options: 
+2020-01-01 22:44:03 INFO  BankMain:47 - 	1. Customer options
+2020-01-01 22:44:03 INFO  BankMain:51 - 	2. Employee options
+2020-01-01 22:44:03 INFO  BankMain:54 - 	3. Quit
+2020-01-01 22:44:04 INFO  BankMain:22 - Employee Options:
+2020-01-01 22:44:04 INFO  BankMain:23 - 	1. Account approval and rejection
+2020-01-01 22:44:04 INFO  BankMain:24 - 	2. View a customer's bank accounts
+2020-01-01 22:44:04 INFO  BankMain:25 - 	3. Log of transactions
+2020-01-01 22:44:04 INFO  BankMain:26 - 	4. Back to user options
+2020-01-01 22:44:05 INFO  BankMain:493 - Please select the customer whose accounts you wish to view or 'quit': 
+2020-01-01 22:44:05 INFO  BankMain:495 - 	1: tee
+2020-01-01 22:44:05 INFO  BankMain:495 - 	1000: s
+2020-01-01 22:44:05 INFO  BankMain:501 - 
+Displaying bank accounts for customer 1
+2020-01-01 22:44:05 INFO  BankMain:502 - 	Account ID	Account Name		Account Balance
+2020-01-01 22:44:05 INFO  BankMain:506 - 	      1006	  callable		       419
+2020-01-01 22:44:05 INFO  BankMain:506 - 	      1005	       new		       420
+2020-01-01 22:44:05 INFO  BankMain:506 - 	      1004	      test		       404
+2020-01-01 22:44:05 INFO  BankMain:506 - 	      1002	    please		       150
+2020-01-01 22:44:05 INFO  BankMain:506 - 	      1000	      test		        50
+2020-01-01 22:44:05 INFO  BankMain:506 - 	      1022	       pop		      2012
+2020-01-01 22:44:05 INFO  BankMain:506 - 	      1020	  2020test		      2020
+2020-01-01 22:44:05 INFO  BankMain:512 - Please select the customer whose accounts you wish to view or 'quit': 
+2020-01-01 22:44:05 INFO  BankMain:514 - 	1: tee
+2020-01-01 22:44:05 INFO  BankMain:514 - 	1000: s
+2020-01-01 22:44:11 INFO  BankMain:547 - Returning to employee options.
+
+2020-01-01 22:44:11 INFO  BankMain:22 - Employee Options:
+2020-01-01 22:44:11 INFO  BankMain:23 - 	1. Account approval and rejection
+2020-01-01 22:44:11 INFO  BankMain:24 - 	2. View a customer's bank accounts
+2020-01-01 22:44:11 INFO  BankMain:25 - 	3. Log of transactions
+2020-01-01 22:44:11 INFO  BankMain:26 - 	4. Back to user options
+2020-01-01 22:44:13 INFO  BankMain:538 - Returning to user options
+2020-01-01 22:44:13 INFO  BankMain:40 - User Options: 
+2020-01-01 22:44:13 INFO  BankMain:47 - 	1. Customer options
+2020-01-01 22:44:13 INFO  BankMain:51 - 	2. Employee options
+2020-01-01 22:44:13 INFO  BankMain:54 - 	3. Quit
+2020-01-01 22:44:14 INFO  BankMain:601 - Thank you for using Banking App. Please come again soon.
+2020-01-01 22:48:58 INFO  BankMain:459 - Welcome to the Banking App
+2020-01-01 22:48:58 INFO  BankMain:460 - ---------------------------------
+2020-01-01 22:48:58 INFO  BankMain:60 - Please enter your username or 'quit' to exit the application: 
+2020-01-01 22:49:01 INFO  BankMain:67 - Please enter your password or 'quit' to exit the application: 
+2020-01-01 22:49:06 INFO  BankMain:70 - Welcome, tee
+2020-01-01 22:49:06 INFO  BankMain:40 - User Options: 
+2020-01-01 22:49:06 INFO  BankMain:47 - 	1. Customer options
+2020-01-01 22:49:06 INFO  BankMain:51 - 	2. Employee options
+2020-01-01 22:49:06 INFO  BankMain:54 - 	3. Quit
+2020-01-01 22:49:07 INFO  BankMain:30 - Customer options:
+2020-01-01 22:49:07 INFO  BankMain:31 - 	1. Apply for a new account
+2020-01-01 22:49:07 INFO  BankMain:32 - 	2. View an account's balance
+2020-01-01 22:49:07 INFO  BankMain:33 - 	3. Withdraw from an account
+2020-01-01 22:49:07 INFO  BankMain:34 - 	4. Deposit to an account
+2020-01-01 22:49:07 INFO  BankMain:35 - 	5. Transfer center
+2020-01-01 22:49:07 INFO  BankMain:36 - 	6. Back to user options
+2020-01-01 22:49:08 INFO  BankMain:109 - Transfer options: 
+2020-01-01 22:49:08 INFO  BankMain:110 - 	1. Post a transfer to another account
+2020-01-01 22:49:08 INFO  BankMain:111 - 	2. View and approve incoming transfers
+2020-01-01 22:49:08 INFO  BankMain:112 - 	3. Return to customer options
+2020-01-01 22:49:09 INFO  BankMain:86 - Please enter the ID of the account you wish to transfer from or type 'quit' to return to transfer options: 
+2020-01-01 22:49:09 INFO  BankMain:88 - 	1006: callable
+2020-01-01 22:49:09 INFO  BankMain:88 - 	1005: new
+2020-01-01 22:49:09 INFO  BankMain:88 - 	1004: test
+2020-01-01 22:49:09 INFO  BankMain:88 - 	1002: please
+2020-01-01 22:49:09 INFO  BankMain:88 - 	1000: test
+2020-01-01 22:49:09 INFO  BankMain:88 - 	1022: pop
+2020-01-01 22:49:09 INFO  BankMain:88 - 	1020: 2020test
+2020-01-01 22:49:13 INFO  BankMain:124 - 
+Please enter the ID of the account you wish to transfer to or 'quit' to return to transfer options: 
+2020-01-01 22:49:13 INFO  BankMain:126 - 	1007: transfertest	User ID: 1000
+2020-01-01 22:49:13 INFO  BankMain:126 - 	1006: callable	User ID: 1
+2020-01-01 22:49:13 INFO  BankMain:126 - 	1005: new	User ID: 1
+2020-01-01 22:49:13 INFO  BankMain:126 - 	1004: test	User ID: 1
+2020-01-01 22:49:13 INFO  BankMain:126 - 	1002: please	User ID: 1
+2020-01-01 22:49:13 INFO  BankMain:126 - 	1000: test	User ID: 1
+2020-01-01 22:49:13 INFO  BankMain:126 - 	1022: pop	User ID: 1
+2020-01-01 22:49:13 INFO  BankMain:126 - 	1020: 2020test	User ID: 1
+2020-01-01 22:49:17 INFO  BankMain:135 - Please enter the amount you wish to transfer from Account 1000 to Account 1002: 
+2020-01-01 22:49:17 INFO  BankMain:136 - Account 1000 balance: 50
+2020-01-01 22:49:18 INFO  BankMain:139 - Transfer posted and sent to customer 1 for approval.
+2020-01-01 22:49:18 INFO  BankMain:220 - Returning to transfer options.
+2020-01-01 22:49:18 INFO  BankMain:109 - Transfer options: 
+2020-01-01 22:49:18 INFO  BankMain:110 - 	1. Post a transfer to another account
+2020-01-01 22:49:18 INFO  BankMain:111 - 	2. View and approve incoming transfers
+2020-01-01 22:49:18 INFO  BankMain:112 - 	3. Return to customer options
+2020-01-01 22:49:20 INFO  BankMain:160 - Displaying all pending transfers to your accounts: 
+2020-01-01 22:49:20 INFO  BankMain:161 - 	Transfer ID	Transfer Amount		Transferring User
+2020-01-01 22:49:20 INFO  BankMain:165 - 	      1011	        10	       tee
+2020-01-01 22:49:20 INFO  BankMain:167 - 
+Please enter the ID of the transfer you wish to accept or reject, or type 'quit' to return to transfer options: 
+2020-01-01 22:49:29 INFO  BankMain:172 - Would you like to accept or reject Transfer 1011?
+2020-01-01 22:49:29 INFO  BankMain:173 - 	ID: 1011
+2020-01-01 22:49:29 INFO  BankMain:174 - 	Amount: 10
+2020-01-01 22:49:29 INFO  BankMain:175 - 	Transferring User: tee
+2020-01-01 22:49:29 INFO  BankMain:176 - Please type 'accept', 'reject' or 'back' to return to the transfer list.
+2020-01-01 22:49:33 INFO  BankMain:184 - Transfer accepted!
+2020-01-01 22:49:33 INFO  BankMain:220 - Returning to transfer options.
+2020-01-01 22:49:33 INFO  BankMain:109 - Transfer options: 
+2020-01-01 22:49:33 INFO  BankMain:110 - 	1. Post a transfer to another account
+2020-01-01 22:49:33 INFO  BankMain:111 - 	2. View and approve incoming transfers
+2020-01-01 22:49:33 INFO  BankMain:112 - 	3. Return to customer options
+2020-01-01 22:49:35 INFO  BankMain:213 - Returning to customer options.
+
+2020-01-01 22:49:35 INFO  BankMain:321 - Returning to customer options
+2020-01-01 22:49:35 INFO  BankMain:30 - Customer options:
+2020-01-01 22:49:35 INFO  BankMain:31 - 	1. Apply for a new account
+2020-01-01 22:49:35 INFO  BankMain:32 - 	2. View an account's balance
+2020-01-01 22:49:35 INFO  BankMain:33 - 	3. Withdraw from an account
+2020-01-01 22:49:35 INFO  BankMain:34 - 	4. Deposit to an account
+2020-01-01 22:49:35 INFO  BankMain:35 - 	5. Transfer center
+2020-01-01 22:49:35 INFO  BankMain:36 - 	6. Back to user options
+2020-01-01 22:49:36 INFO  BankMain:312 - Returning to user options
+2020-01-01 22:49:36 INFO  BankMain:40 - User Options: 
+2020-01-01 22:49:36 INFO  BankMain:47 - 	1. Customer options
+2020-01-01 22:49:36 INFO  BankMain:51 - 	2. Employee options
+2020-01-01 22:49:36 INFO  BankMain:54 - 	3. Quit
+2020-01-01 22:49:37 INFO  BankMain:469 - Thank you for using Banking App. Please come again soon.
+2020-01-01 23:01:55 INFO  BankMain:459 - Welcome to the Banking App
+2020-01-01 23:01:55 INFO  BankMain:460 - ---------------------------------
+2020-01-01 23:01:55 INFO  BankMain:60 - Please enter your username or 'quit' to exit the application: 
+2020-01-01 23:01:59 INFO  BankMain:67 - Please enter your password or 'quit' to exit the application: 
+2020-01-01 23:01:59 INFO  BankMain:70 - Welcome, u
+2020-01-01 23:01:59 INFO  BankMain:40 - User Options: 
+2020-01-01 23:01:59 INFO  BankMain:47 - 	1. Customer options
+2020-01-01 23:01:59 INFO  BankMain:54 - 	2. Quit
+2020-01-01 23:02:01 INFO  BankMain:30 - Customer options:
+2020-01-01 23:02:01 INFO  BankMain:31 - 	1. Apply for a new account
+2020-01-01 23:02:01 INFO  BankMain:32 - 	2. View an account's balance
+2020-01-01 23:02:01 INFO  BankMain:33 - 	3. Withdraw from an account
+2020-01-01 23:02:01 INFO  BankMain:34 - 	4. Deposit to an account
+2020-01-01 23:02:01 INFO  BankMain:35 - 	5. Transfer center
+2020-01-01 23:02:01 INFO  BankMain:36 - 	6. Back to user options
+2020-01-01 23:02:02 INFO  BankMain:312 - Returning to user options
+
+2020-01-01 23:02:02 INFO  BankMain:40 - User Options: 
+2020-01-01 23:02:02 INFO  BankMain:47 - 	1. Customer options
+2020-01-01 23:02:02 INFO  BankMain:54 - 	2. Quit
+2020-01-01 23:02:03 INFO  BankMain:469 - Thank you for using Banking App. Please come again soon.
+2020-01-01 23:03:35 INFO  BankMain:459 - Welcome to the Bank of Project 0 Application
+2020-01-01 23:03:35 INFO  BankMain:460 - ---------------------------------
+2020-01-01 23:03:35 INFO  BankMain:60 - Please enter your username or 'quit' to exit the application: 
+2020-01-01 23:03:39 INFO  BankMain:67 - Please enter your password or 'quit' to exit the application: 
+2020-01-01 23:03:42 INFO  BankMain:70 - Welcome, u
+2020-01-01 23:03:42 INFO  BankMain:40 - User Options: 
+2020-01-01 23:03:42 INFO  BankMain:47 - 	1. Customer options
+2020-01-01 23:03:42 INFO  BankMain:54 - 	2. Quit
+2020-01-01 23:03:42 INFO  BankMain:30 - Customer options:
+2020-01-01 23:03:42 INFO  BankMain:31 - 	1. Apply for a new account
+2020-01-01 23:03:42 INFO  BankMain:32 - 	2. View an account's balance
+2020-01-01 23:03:42 INFO  BankMain:33 - 	3. Withdraw from an account
+2020-01-01 23:03:42 INFO  BankMain:34 - 	4. Deposit to an account
+2020-01-01 23:03:42 INFO  BankMain:35 - 	5. Transfer center
+2020-01-01 23:03:42 INFO  BankMain:36 - 	6. Back to user options
+2020-01-01 23:03:44 ERROR UserBOImpl:142 - You have no open accounts yet.
+2020-01-01 23:03:44 INFO  BankMain:86 - Please enter the ID of the account you wish to view or type 'quit' to return to customer options: 
+2020-01-01 23:03:44 INFO  BankMain:469 - Thank you for using Bank of Project 0 App. Please come again soon.
+2020-01-01 23:07:59 INFO  BankMain:461 - Welcome to the Bank of Project 0 Application
+2020-01-01 23:07:59 INFO  BankMain:462 - ---------------------------------
+2020-01-01 23:07:59 INFO  BankMain:60 - Please enter your username or 'quit' to exit the application: 
+2020-01-01 23:08:03 INFO  BankMain:67 - Please enter your password or 'quit' to exit the application: 
+2020-01-01 23:08:04 INFO  BankMain:70 - Welcome, u
+2020-01-01 23:08:04 INFO  BankMain:40 - User Options: 
+2020-01-01 23:08:04 INFO  BankMain:47 - 	1. Customer options
+2020-01-01 23:08:04 INFO  BankMain:54 - 	2. Quit
+2020-01-01 23:08:05 INFO  BankMain:30 - Customer options:
+2020-01-01 23:08:05 INFO  BankMain:31 - 	1. Apply for a new account
+2020-01-01 23:08:05 INFO  BankMain:32 - 	2. View an account's balance
+2020-01-01 23:08:05 INFO  BankMain:33 - 	3. Withdraw from an account
+2020-01-01 23:08:05 INFO  BankMain:34 - 	4. Deposit to an account
+2020-01-01 23:08:05 INFO  BankMain:35 - 	5. Transfer center
+2020-01-01 23:08:05 INFO  BankMain:36 - 	6. Back to user options
+2020-01-01 23:08:07 ERROR UserBOImpl:142 - You have no open accounts yet.
+2020-01-01 23:08:07 INFO  BankMain:471 - Thank you for using Bank of Project 0 App. Please come again soon.
+2020-01-01 23:08:26 INFO  BankMain:461 - Welcome to the Bank of Project 0 Application
+2020-01-01 23:08:26 INFO  BankMain:462 - ---------------------------------
+2020-01-01 23:08:26 INFO  BankMain:60 - Please enter your username or 'quit' to exit the application: 
+2020-01-01 23:08:29 INFO  BankMain:67 - Please enter your password or 'quit' to exit the application: 
+2020-01-01 23:08:29 INFO  BankMain:70 - Welcome, u
+2020-01-01 23:08:29 INFO  BankMain:40 - User Options: 
+2020-01-01 23:08:29 INFO  BankMain:47 - 	1. Customer options
+2020-01-01 23:08:29 INFO  BankMain:54 - 	2. Quit
+2020-01-01 23:08:30 INFO  BankMain:30 - Customer options:
+2020-01-01 23:08:30 INFO  BankMain:31 - 	1. Apply for a new account
+2020-01-01 23:08:30 INFO  BankMain:32 - 	2. View an account's balance
+2020-01-01 23:08:30 INFO  BankMain:33 - 	3. Withdraw from an account
+2020-01-01 23:08:30 INFO  BankMain:34 - 	4. Deposit to an account
+2020-01-01 23:08:30 INFO  BankMain:35 - 	5. Transfer center
+2020-01-01 23:08:30 INFO  BankMain:36 - 	6. Back to user options
+2020-01-01 23:08:31 ERROR UserBOImpl:142 - You have no open accounts yet.
+2020-01-01 23:08:31 INFO  BankMain:323 - Returning to customer options
+
+2020-01-01 23:08:31 INFO  BankMain:30 - Customer options:
+2020-01-01 23:08:31 INFO  BankMain:31 - 	1. Apply for a new account
+2020-01-01 23:08:31 INFO  BankMain:32 - 	2. View an account's balance
+2020-01-01 23:08:31 INFO  BankMain:33 - 	3. Withdraw from an account
+2020-01-01 23:08:31 INFO  BankMain:34 - 	4. Deposit to an account
+2020-01-01 23:08:31 INFO  BankMain:35 - 	5. Transfer center
+2020-01-01 23:08:31 INFO  BankMain:36 - 	6. Back to user options
+2020-01-01 23:08:33 INFO  BankMain:233 - Please enter the name of your new account or 'quit' to return to customer options: 
+2020-01-01 23:08:39 INFO  BankMain:237 - Please enter the starting balance of the account or 'quit' to return to customer options: 
+2020-01-01 23:08:40 INFO  UserBOImpl:50 - Account has been sent for approval by an employee.
+
+2020-01-01 23:08:41 INFO  BankMain:323 - Returning to customer options
+
+2020-01-01 23:08:41 INFO  BankMain:30 - Customer options:
+2020-01-01 23:08:41 INFO  BankMain:31 - 	1. Apply for a new account
+2020-01-01 23:08:41 INFO  BankMain:32 - 	2. View an account's balance
+2020-01-01 23:08:41 INFO  BankMain:33 - 	3. Withdraw from an account
+2020-01-01 23:08:41 INFO  BankMain:34 - 	4. Deposit to an account
+2020-01-01 23:08:41 INFO  BankMain:35 - 	5. Transfer center
+2020-01-01 23:08:41 INFO  BankMain:36 - 	6. Back to user options
+2020-01-01 23:08:42 INFO  BankMain:314 - Returning to user options
+
+2020-01-01 23:08:42 INFO  BankMain:40 - User Options: 
+2020-01-01 23:08:42 INFO  BankMain:47 - 	1. Customer options
+2020-01-01 23:08:42 INFO  BankMain:54 - 	2. Quit
+2020-01-01 23:08:43 INFO  BankMain:471 - Thank you for using Bank of Project 0 App. Please come again soon.
+2020-01-01 23:08:46 INFO  BankMain:461 - Welcome to the Bank of Project 0 Application
+2020-01-01 23:08:46 INFO  BankMain:462 - ---------------------------------
+2020-01-01 23:08:46 INFO  BankMain:60 - Please enter your username or 'quit' to exit the application: 
+2020-01-01 23:08:49 INFO  BankMain:67 - Please enter your password or 'quit' to exit the application: 
+2020-01-01 23:08:50 INFO  BankMain:70 - Welcome, tee
+2020-01-01 23:08:50 INFO  BankMain:40 - User Options: 
+2020-01-01 23:08:50 INFO  BankMain:47 - 	1. Customer options
+2020-01-01 23:08:50 INFO  BankMain:51 - 	2. Employee options
+2020-01-01 23:08:50 INFO  BankMain:54 - 	3. Quit
+2020-01-01 23:08:52 INFO  BankMain:22 - Employee Options:
+2020-01-01 23:08:52 INFO  BankMain:23 - 	1. Account approval and rejection
+2020-01-01 23:08:52 INFO  BankMain:24 - 	2. View a customer's bank accounts
+2020-01-01 23:08:52 INFO  BankMain:25 - 	3. Log of transactions
+2020-01-01 23:08:52 INFO  BankMain:26 - 	4. Back to user options
+2020-01-01 23:08:53 INFO  BankMain:88 - Please select the account you wish to approve or reject, or type 'quit' to return to employee options: 
+2020-01-01 23:08:53 INFO  BankMain:90 - 	1023: yes cerritos
+2020-01-01 23:08:54 INFO  BankMain:339 - Would you like to approve or reject Account yes cerritos?
+2020-01-01 23:08:54 INFO  BankMain:340 - 	ID: 1023
+2020-01-01 23:08:54 INFO  BankMain:341 - 	Starting Balance: 111
+2020-01-01 23:08:54 INFO  BankMain:342 - Please type 'approve', 'reject', or 'back' to return to employee options.
+2020-01-01 23:08:57 INFO  BankMain:347 - Account 1023 approved.
+
+2020-01-01 23:08:57 INFO  BankMain:418 - Returning to employee options.
+
+2020-01-01 23:08:57 INFO  BankMain:22 - Employee Options:
+2020-01-01 23:08:57 INFO  BankMain:23 - 	1. Account approval and rejection
+2020-01-01 23:08:57 INFO  BankMain:24 - 	2. View a customer's bank accounts
+2020-01-01 23:08:57 INFO  BankMain:25 - 	3. Log of transactions
+2020-01-01 23:08:57 INFO  BankMain:26 - 	4. Back to user options
+2020-01-01 23:08:58 INFO  BankMain:409 - Returning to user options.
+
+2020-01-01 23:08:58 INFO  BankMain:40 - User Options: 
+2020-01-01 23:08:58 INFO  BankMain:47 - 	1. Customer options
+2020-01-01 23:08:58 INFO  BankMain:51 - 	2. Employee options
+2020-01-01 23:08:58 INFO  BankMain:54 - 	3. Quit
+2020-01-01 23:08:59 INFO  BankMain:471 - Thank you for using Bank of Project 0 App. Please come again soon.
+2020-01-01 23:09:01 INFO  BankMain:461 - Welcome to the Bank of Project 0 Application
+2020-01-01 23:09:01 INFO  BankMain:462 - ---------------------------------
+2020-01-01 23:09:01 INFO  BankMain:60 - Please enter your username or 'quit' to exit the application: 
+2020-01-01 23:09:03 INFO  BankMain:67 - Please enter your password or 'quit' to exit the application: 
+2020-01-01 23:09:04 INFO  BankMain:70 - Welcome, u
+2020-01-01 23:09:04 INFO  BankMain:40 - User Options: 
+2020-01-01 23:09:04 INFO  BankMain:47 - 	1. Customer options
+2020-01-01 23:09:04 INFO  BankMain:54 - 	2. Quit
+2020-01-01 23:09:05 INFO  BankMain:30 - Customer options:
+2020-01-01 23:09:05 INFO  BankMain:31 - 	1. Apply for a new account
+2020-01-01 23:09:05 INFO  BankMain:32 - 	2. View an account's balance
+2020-01-01 23:09:05 INFO  BankMain:33 - 	3. Withdraw from an account
+2020-01-01 23:09:05 INFO  BankMain:34 - 	4. Deposit to an account
+2020-01-01 23:09:05 INFO  BankMain:35 - 	5. Transfer center
+2020-01-01 23:09:05 INFO  BankMain:36 - 	6. Back to user options
+2020-01-01 23:09:06 INFO  BankMain:88 - Please enter the ID of the account you wish to view or type 'quit' to return to customer options: 
+2020-01-01 23:09:06 INFO  BankMain:90 - 	1023: yes cerritos
+2020-01-01 23:09:08 INFO  BankMain:246 - Account 1023 with name yes cerritos has a balance of 111
+
+2020-01-01 23:09:08 INFO  BankMain:323 - Returning to customer options
+
+2020-01-01 23:09:08 INFO  BankMain:30 - Customer options:
+2020-01-01 23:09:08 INFO  BankMain:31 - 	1. Apply for a new account
+2020-01-01 23:09:08 INFO  BankMain:32 - 	2. View an account's balance
+2020-01-01 23:09:08 INFO  BankMain:33 - 	3. Withdraw from an account
+2020-01-01 23:09:08 INFO  BankMain:34 - 	4. Deposit to an account
+2020-01-01 23:09:08 INFO  BankMain:35 - 	5. Transfer center
+2020-01-01 23:09:08 INFO  BankMain:36 - 	6. Back to user options
+2020-01-01 23:09:10 INFO  BankMain:88 - Please enter the ID of the account you wish to withdraw from or type 'quit' to return to customer options: 
+2020-01-01 23:09:10 INFO  BankMain:90 - 	1023: yes cerritos
+2020-01-01 23:09:11 INFO  BankMain:254 - Please enter the amount you wish to withdraw from this account or 'quit' to return to customer options: 
+2020-01-01 23:09:11 INFO  BankMain:255 - Current balance: 111
+2020-01-01 23:09:13 INFO  BankMain:265 - Withdrawal complete! Account 1023 now has a balance of 0
+
+2020-01-01 23:09:13 INFO  BankMain:323 - Returning to customer options
+
+2020-01-01 23:09:13 INFO  BankMain:30 - Customer options:
+2020-01-01 23:09:13 INFO  BankMain:31 - 	1. Apply for a new account
+2020-01-01 23:09:13 INFO  BankMain:32 - 	2. View an account's balance
+2020-01-01 23:09:13 INFO  BankMain:33 - 	3. Withdraw from an account
+2020-01-01 23:09:13 INFO  BankMain:34 - 	4. Deposit to an account
+2020-01-01 23:09:13 INFO  BankMain:35 - 	5. Transfer center
+2020-01-01 23:09:13 INFO  BankMain:36 - 	6. Back to user options
+2020-01-01 23:09:16 INFO  BankMain:314 - Returning to user options
+
+2020-01-01 23:09:16 INFO  BankMain:40 - User Options: 
+2020-01-01 23:09:16 INFO  BankMain:47 - 	1. Customer options
+2020-01-01 23:09:16 INFO  BankMain:54 - 	2. Quit
+2020-01-01 23:09:17 ERROR BankMain:445 - Invalid input.
+
+2020-01-01 23:09:17 INFO  BankMain:40 - User Options: 
+2020-01-01 23:09:17 INFO  BankMain:47 - 	1. Customer options
+2020-01-01 23:09:17 INFO  BankMain:54 - 	2. Quit
+2020-01-01 23:09:18 INFO  BankMain:471 - Thank you for using Bank of Project 0 App. Please come again soon.
+2020-01-01 23:13:41 INFO  BankMain:461 - Welcome to the Bank of Project 0 Application
+2020-01-01 23:13:41 INFO  BankMain:462 - ---------------------------------
+2020-01-01 23:13:41 INFO  BankMain:60 - Please enter your username or 'quit' to exit the application: 
+2020-01-01 23:13:44 INFO  BankMain:67 - Please enter your password or 'quit' to exit the application: 
+2020-01-01 23:13:45 INFO  BankMain:70 - Welcome, u
+2020-01-01 23:13:45 INFO  BankMain:40 - User Options: 
+2020-01-01 23:13:45 INFO  BankMain:47 - 	1. Customer options
+2020-01-01 23:13:45 INFO  BankMain:54 - 	2. Quit
+2020-01-01 23:13:46 INFO  BankMain:30 - Customer options:
+2020-01-01 23:13:46 INFO  BankMain:31 - 	1. Apply for a new account
+2020-01-01 23:13:46 INFO  BankMain:32 - 	2. View an account's balance
+2020-01-01 23:13:46 INFO  BankMain:33 - 	3. Withdraw from an account
+2020-01-01 23:13:46 INFO  BankMain:34 - 	4. Deposit to an account
+2020-01-01 23:13:46 INFO  BankMain:35 - 	5. Transfer center
+2020-01-01 23:13:46 INFO  BankMain:36 - 	6. Back to user options
+2020-01-01 23:13:47 INFO  BankMain:111 - Transfer options: 
+2020-01-01 23:13:47 INFO  BankMain:112 - 	1. Post a transfer to another account
+2020-01-01 23:13:47 INFO  BankMain:113 - 	2. View and approve incoming transfers
+2020-01-01 23:13:47 INFO  BankMain:114 - 	3. Return to customer options
+2020-01-01 23:13:48 ERROR BankMain:211 - There are no pending offers for you.
+2020-01-01 23:13:48 INFO  BankMain:222 - Returning to transfer options.
+
+2020-01-01 23:13:48 INFO  BankMain:111 - Transfer options: 
+2020-01-01 23:13:48 INFO  BankMain:112 - 	1. Post a transfer to another account
+2020-01-01 23:13:48 INFO  BankMain:113 - 	2. View and approve incoming transfers
+2020-01-01 23:13:48 INFO  BankMain:114 - 	3. Return to customer options
+2020-01-01 23:13:51 INFO  BankMain:215 - Returning to customer options.
+
+2020-01-01 23:13:51 INFO  BankMain:323 - Returning to customer options
+
+2020-01-01 23:13:51 INFO  BankMain:30 - Customer options:
+2020-01-01 23:13:51 INFO  BankMain:31 - 	1. Apply for a new account
+2020-01-01 23:13:51 INFO  BankMain:32 - 	2. View an account's balance
+2020-01-01 23:13:51 INFO  BankMain:33 - 	3. Withdraw from an account
+2020-01-01 23:13:51 INFO  BankMain:34 - 	4. Deposit to an account
+2020-01-01 23:13:51 INFO  BankMain:35 - 	5. Transfer center
+2020-01-01 23:13:51 INFO  BankMain:36 - 	6. Back to user options
+2020-01-01 23:13:52 INFO  BankMain:314 - Returning to user options
+
+2020-01-01 23:13:52 INFO  BankMain:40 - User Options: 
+2020-01-01 23:13:52 INFO  BankMain:47 - 	1. Customer options
+2020-01-01 23:13:52 INFO  BankMain:54 - 	2. Quit
+2020-01-01 23:13:53 INFO  BankMain:471 - Thank you for using Bank of Project 0 App. Please come again soon.
+2020-01-02 08:47:43 INFO  BankMain:449 - Welcome to the Bank of Project 0 Application
+2020-01-02 08:47:43 INFO  BankMain:450 - ---------------------------------
+2020-01-02 08:47:43 INFO  BankMain:60 - Please enter your username or 'quit' to exit the application: 
+2020-01-02 08:47:48 INFO  BankMain:67 - Please enter your password or 'quit' to exit the application: 
+2020-01-02 08:47:49 INFO  BankMain:70 - Welcome, tee
+2020-01-02 08:47:49 INFO  BankMain:40 - User Options: 
+2020-01-02 08:47:49 INFO  BankMain:47 - 	1. Customer options
+2020-01-02 08:47:49 INFO  BankMain:51 - 	2. Employee options
+2020-01-02 08:47:49 INFO  BankMain:54 - 	3. Quit
+2020-01-02 08:47:50 INFO  BankMain:30 - Customer options:
+2020-01-02 08:47:50 INFO  BankMain:31 - 	1. Apply for a new account
+2020-01-02 08:47:50 INFO  BankMain:32 - 	2. View an account's balance
+2020-01-02 08:47:50 INFO  BankMain:33 - 	3. Withdraw from an account
+2020-01-02 08:47:50 INFO  BankMain:34 - 	4. Deposit to an account
+2020-01-02 08:47:50 INFO  BankMain:35 - 	5. Transfer center
+2020-01-02 08:47:50 INFO  BankMain:36 - 	6. Back to user options
+2020-01-02 08:47:51 ERROR BankMain:309 - Please enter a number associated with an option.
+
+2020-01-02 08:47:51 INFO  BankMain:311 - Returning to customer options
+
+2020-01-02 08:47:51 INFO  BankMain:30 - Customer options:
+2020-01-02 08:47:51 INFO  BankMain:31 - 	1. Apply for a new account
+2020-01-02 08:47:51 INFO  BankMain:32 - 	2. View an account's balance
+2020-01-02 08:47:51 INFO  BankMain:33 - 	3. Withdraw from an account
+2020-01-02 08:47:51 INFO  BankMain:34 - 	4. Deposit to an account
+2020-01-02 08:47:51 INFO  BankMain:35 - 	5. Transfer center
+2020-01-02 08:47:51 INFO  BankMain:36 - 	6. Back to user options
+2020-01-02 08:47:52 INFO  BankMain:111 - Transfer options: 
+2020-01-02 08:47:52 INFO  BankMain:112 - 	1. Post a transfer to another account
+2020-01-02 08:47:52 INFO  BankMain:113 - 	2. View and approve incoming transfers
+2020-01-02 08:47:52 INFO  BankMain:114 - 	3. Return to customer options
+2020-01-02 08:47:54 ERROR UserBOImpl:176 - There are no pending offers for you.
+2020-01-02 08:47:54 INFO  BankMain:161 - Displaying all pending transfers to your accounts: 
+2020-01-02 08:47:54 INFO  BankMain:162 - 	Transfer ID	Transfer Amount		Transferring User
+2020-01-02 08:47:54 INFO  BankMain:459 - Thank you for using Bank of Project 0 App. Please come again soon.
+2020-01-02 08:49:06 INFO  BankMain:451 - Welcome to the Bank of Project 0 Application
+2020-01-02 08:49:06 INFO  BankMain:452 - ---------------------------------
+2020-01-02 08:49:06 INFO  BankMain:60 - Please enter your username or 'quit' to exit the application: 
+2020-01-02 08:49:10 INFO  BankMain:67 - Please enter your password or 'quit' to exit the application: 
+2020-01-02 08:49:10 INFO  BankMain:70 - Welcome, tee
+2020-01-02 08:49:10 INFO  BankMain:40 - User Options: 
+2020-01-02 08:49:10 INFO  BankMain:47 - 	1. Customer options
+2020-01-02 08:49:10 INFO  BankMain:51 - 	2. Employee options
+2020-01-02 08:49:10 INFO  BankMain:54 - 	3. Quit
+2020-01-02 08:49:12 INFO  BankMain:30 - Customer options:
+2020-01-02 08:49:12 INFO  BankMain:31 - 	1. Apply for a new account
+2020-01-02 08:49:12 INFO  BankMain:32 - 	2. View an account's balance
+2020-01-02 08:49:12 INFO  BankMain:33 - 	3. Withdraw from an account
+2020-01-02 08:49:12 INFO  BankMain:34 - 	4. Deposit to an account
+2020-01-02 08:49:12 INFO  BankMain:35 - 	5. Transfer center
+2020-01-02 08:49:12 INFO  BankMain:36 - 	6. Back to user options
+2020-01-02 08:49:14 INFO  BankMain:111 - Transfer options: 
+2020-01-02 08:49:14 INFO  BankMain:112 - 	1. Post a transfer to another account
+2020-01-02 08:49:14 INFO  BankMain:113 - 	2. View and approve incoming transfers
+2020-01-02 08:49:14 INFO  BankMain:114 - 	3. Return to customer options
+2020-01-02 08:49:15 ERROR UserBOImpl:176 - There are no pending offers for you.
+2020-01-02 08:49:15 INFO  BankMain:212 - Returning to transfer options.
+
+2020-01-02 08:49:15 INFO  BankMain:111 - Transfer options: 
+2020-01-02 08:49:15 INFO  BankMain:112 - 	1. Post a transfer to another account
+2020-01-02 08:49:15 INFO  BankMain:113 - 	2. View and approve incoming transfers
+2020-01-02 08:49:15 INFO  BankMain:114 - 	3. Return to customer options
+2020-01-02 08:49:19 INFO  BankMain:205 - Returning to customer options.
+
+2020-01-02 08:49:19 INFO  BankMain:313 - Returning to customer options
+
+2020-01-02 08:49:19 INFO  BankMain:30 - Customer options:
+2020-01-02 08:49:19 INFO  BankMain:31 - 	1. Apply for a new account
+2020-01-02 08:49:19 INFO  BankMain:32 - 	2. View an account's balance
+2020-01-02 08:49:19 INFO  BankMain:33 - 	3. Withdraw from an account
+2020-01-02 08:49:19 INFO  BankMain:34 - 	4. Deposit to an account
+2020-01-02 08:49:19 INFO  BankMain:35 - 	5. Transfer center
+2020-01-02 08:49:19 INFO  BankMain:36 - 	6. Back to user options
+2020-01-02 08:49:20 INFO  BankMain:223 - Please enter the name of your new account or 'quit' to return to customer options: 
+2020-01-02 08:49:22 INFO  BankMain:313 - Returning to customer options
+
+2020-01-02 08:49:22 INFO  BankMain:30 - Customer options:
+2020-01-02 08:49:22 INFO  BankMain:31 - 	1. Apply for a new account
+2020-01-02 08:49:22 INFO  BankMain:32 - 	2. View an account's balance
+2020-01-02 08:49:22 INFO  BankMain:33 - 	3. Withdraw from an account
+2020-01-02 08:49:22 INFO  BankMain:34 - 	4. Deposit to an account
+2020-01-02 08:49:22 INFO  BankMain:35 - 	5. Transfer center
+2020-01-02 08:49:22 INFO  BankMain:36 - 	6. Back to user options
+2020-01-02 08:49:23 INFO  BankMain:304 - Returning to user options
+
+2020-01-02 08:49:23 INFO  BankMain:40 - User Options: 
+2020-01-02 08:49:23 INFO  BankMain:47 - 	1. Customer options
+2020-01-02 08:49:23 INFO  BankMain:51 - 	2. Employee options
+2020-01-02 08:49:23 INFO  BankMain:54 - 	3. Quit
+2020-01-02 08:49:24 INFO  BankMain:461 - Thank you for using Bank of Project 0 App. Please come again soon.
+2020-01-02 08:55:36 INFO  BankMain:456 - Welcome to the Bank of Project 0 Application
+2020-01-02 08:55:36 INFO  BankMain:457 - ---------------------------------
+2020-01-02 08:55:36 INFO  BankMain:60 - Please enter your username or 'quit' to exit the application: 
+2020-01-02 08:55:40 INFO  BankMain:67 - Please enter your password or 'quit' to exit the application: 
+2020-01-02 08:55:41 INFO  BankMain:70 - Welcome, tee
+2020-01-02 08:55:41 INFO  BankMain:40 - User Options: 
+2020-01-02 08:55:41 INFO  BankMain:47 - 	1. Customer options
+2020-01-02 08:55:41 INFO  BankMain:51 - 	2. Employee options
+2020-01-02 08:55:41 INFO  BankMain:54 - 	3. Quit
+2020-01-02 08:55:42 INFO  BankMain:30 - Customer options:
+2020-01-02 08:55:42 INFO  BankMain:31 - 	1. Apply for a new account
+2020-01-02 08:55:42 INFO  BankMain:32 - 	2. View an account's balance
+2020-01-02 08:55:42 INFO  BankMain:33 - 	3. Withdraw from an account
+2020-01-02 08:55:42 INFO  BankMain:34 - 	4. Deposit to an account
+2020-01-02 08:55:42 INFO  BankMain:35 - 	5. Transfer center
+2020-01-02 08:55:42 INFO  BankMain:36 - 	6. Back to user options
+2020-01-02 08:55:43 INFO  BankMain:225 - Please enter the name of your new account or 'quit' to return to customer options: 
+2020-01-02 08:55:46 INFO  BankMain:229 - Please enter the starting balance of the account or 'quit' to return to customer options: 
+2020-01-02 08:55:48 ERROR UserBOImpl:53 - Please enter a balance of 0 or greater. Returning to customer options.
+
+2020-01-02 08:55:48 INFO  BankMain:315 - Returning to customer options
+
+2020-01-02 08:55:48 INFO  BankMain:30 - Customer options:
+2020-01-02 08:55:48 INFO  BankMain:31 - 	1. Apply for a new account
+2020-01-02 08:55:48 INFO  BankMain:32 - 	2. View an account's balance
+2020-01-02 08:55:48 INFO  BankMain:33 - 	3. Withdraw from an account
+2020-01-02 08:55:48 INFO  BankMain:34 - 	4. Deposit to an account
+2020-01-02 08:55:48 INFO  BankMain:35 - 	5. Transfer center
+2020-01-02 08:55:48 INFO  BankMain:36 - 	6. Back to user options
+2020-01-02 08:55:51 INFO  BankMain:88 - Please enter the ID of the account you wish to view or type 'quit' to return to customer options: 
+2020-01-02 08:55:51 INFO  BankMain:90 - 	1006: callable
+2020-01-02 08:55:51 INFO  BankMain:90 - 	1005: new
+2020-01-02 08:55:51 INFO  BankMain:90 - 	1004: test
+2020-01-02 08:55:51 INFO  BankMain:90 - 	1002: please
+2020-01-02 08:55:51 INFO  BankMain:90 - 	1000: test
+2020-01-02 08:55:51 INFO  BankMain:90 - 	1022: pop
+2020-01-02 08:55:51 INFO  BankMain:90 - 	1020: 2020test
+2020-01-02 08:55:54 INFO  BankMain:315 - Returning to customer options
+
+2020-01-02 08:55:54 INFO  BankMain:30 - Customer options:
+2020-01-02 08:55:54 INFO  BankMain:31 - 	1. Apply for a new account
+2020-01-02 08:55:54 INFO  BankMain:32 - 	2. View an account's balance
+2020-01-02 08:55:54 INFO  BankMain:33 - 	3. Withdraw from an account
+2020-01-02 08:55:54 INFO  BankMain:34 - 	4. Deposit to an account
+2020-01-02 08:55:54 INFO  BankMain:35 - 	5. Transfer center
+2020-01-02 08:55:54 INFO  BankMain:36 - 	6. Back to user options
+2020-01-02 08:55:56 INFO  BankMain:88 - Please enter the ID of the account you wish to withdraw from or type 'quit' to return to customer options: 
+2020-01-02 08:55:56 INFO  BankMain:90 - 	1006: callable
+2020-01-02 08:55:56 INFO  BankMain:90 - 	1005: new
+2020-01-02 08:55:56 INFO  BankMain:90 - 	1004: test
+2020-01-02 08:55:56 INFO  BankMain:90 - 	1002: please
+2020-01-02 08:55:56 INFO  BankMain:90 - 	1000: test
+2020-01-02 08:55:56 INFO  BankMain:90 - 	1022: pop
+2020-01-02 08:55:56 INFO  BankMain:90 - 	1020: 2020test
+2020-01-02 08:55:58 INFO  BankMain:315 - Returning to customer options
+
+2020-01-02 08:55:58 INFO  BankMain:30 - Customer options:
+2020-01-02 08:55:58 INFO  BankMain:31 - 	1. Apply for a new account
+2020-01-02 08:55:58 INFO  BankMain:32 - 	2. View an account's balance
+2020-01-02 08:55:58 INFO  BankMain:33 - 	3. Withdraw from an account
+2020-01-02 08:55:58 INFO  BankMain:34 - 	4. Deposit to an account
+2020-01-02 08:55:58 INFO  BankMain:35 - 	5. Transfer center
+2020-01-02 08:55:58 INFO  BankMain:36 - 	6. Back to user options
+2020-01-02 08:56:01 ERROR BankMain:313 - Please enter a number associated with an option.
+
+2020-01-02 08:56:01 INFO  BankMain:315 - Returning to customer options
+
+2020-01-02 08:56:01 INFO  BankMain:30 - Customer options:
+2020-01-02 08:56:01 INFO  BankMain:31 - 	1. Apply for a new account
+2020-01-02 08:56:01 INFO  BankMain:32 - 	2. View an account's balance
+2020-01-02 08:56:01 INFO  BankMain:33 - 	3. Withdraw from an account
+2020-01-02 08:56:01 INFO  BankMain:34 - 	4. Deposit to an account
+2020-01-02 08:56:01 INFO  BankMain:35 - 	5. Transfer center
+2020-01-02 08:56:01 INFO  BankMain:36 - 	6. Back to user options
+2020-01-02 08:56:03 INFO  BankMain:88 - Please enter the ID of the account you wish to withdraw from or type 'quit' to return to customer options: 
+2020-01-02 08:56:03 INFO  BankMain:90 - 	1006: callable
+2020-01-02 08:56:03 INFO  BankMain:90 - 	1005: new
+2020-01-02 08:56:03 INFO  BankMain:90 - 	1004: test
+2020-01-02 08:56:03 INFO  BankMain:90 - 	1002: please
+2020-01-02 08:56:03 INFO  BankMain:90 - 	1000: test
+2020-01-02 08:56:03 INFO  BankMain:90 - 	1022: pop
+2020-01-02 08:56:03 INFO  BankMain:90 - 	1020: 2020test
+2020-01-02 08:56:09 ERROR BankMain:96 - Account ID not found. Please enter the name of an account listed.
+
+2020-01-02 08:56:09 INFO  BankMain:101 - Please enter the ID of the account you wish to withdraw from or type 'quit' to return to customer options: 
+2020-01-02 08:56:09 INFO  BankMain:103 - 	1006: callable
+2020-01-02 08:56:09 INFO  BankMain:103 - 	1005: new
+2020-01-02 08:56:09 INFO  BankMain:103 - 	1004: test
+2020-01-02 08:56:09 INFO  BankMain:103 - 	1002: please
+2020-01-02 08:56:09 INFO  BankMain:103 - 	1000: test
+2020-01-02 08:56:09 INFO  BankMain:103 - 	1022: pop
+2020-01-02 08:56:09 INFO  BankMain:103 - 	1020: 2020test
+2020-01-02 08:56:12 INFO  BankMain:315 - Returning to customer options
+
+2020-01-02 08:56:12 INFO  BankMain:30 - Customer options:
+2020-01-02 08:56:12 INFO  BankMain:31 - 	1. Apply for a new account
+2020-01-02 08:56:12 INFO  BankMain:32 - 	2. View an account's balance
+2020-01-02 08:56:12 INFO  BankMain:33 - 	3. Withdraw from an account
+2020-01-02 08:56:12 INFO  BankMain:34 - 	4. Deposit to an account
+2020-01-02 08:56:12 INFO  BankMain:35 - 	5. Transfer center
+2020-01-02 08:56:12 INFO  BankMain:36 - 	6. Back to user options
+2020-01-02 08:56:18 ERROR BankMain:313 - Please enter a number associated with an option.
+
+2020-01-02 08:56:18 INFO  BankMain:315 - Returning to customer options
+
+2020-01-02 08:56:18 INFO  BankMain:30 - Customer options:
+2020-01-02 08:56:18 INFO  BankMain:31 - 	1. Apply for a new account
+2020-01-02 08:56:18 INFO  BankMain:32 - 	2. View an account's balance
+2020-01-02 08:56:18 INFO  BankMain:33 - 	3. Withdraw from an account
+2020-01-02 08:56:18 INFO  BankMain:34 - 	4. Deposit to an account
+2020-01-02 08:56:18 INFO  BankMain:35 - 	5. Transfer center
+2020-01-02 08:56:18 INFO  BankMain:36 - 	6. Back to user options
+2020-01-02 08:56:21 INFO  BankMain:306 - Returning to user options
+
+2020-01-02 08:56:21 INFO  BankMain:40 - User Options: 
+2020-01-02 08:56:21 INFO  BankMain:47 - 	1. Customer options
+2020-01-02 08:56:21 INFO  BankMain:51 - 	2. Employee options
+2020-01-02 08:56:21 INFO  BankMain:54 - 	3. Quit
+2020-01-02 08:56:22 INFO  BankMain:466 - Thank you for using Bank of Project 0 App. Please come again soon.
+2020-01-02 08:56:23 INFO  BankMain:456 - Welcome to the Bank of Project 0 Application
+2020-01-02 08:56:23 INFO  BankMain:457 - ---------------------------------
+2020-01-02 08:56:23 INFO  BankMain:60 - Please enter your username or 'quit' to exit the application: 
+2020-01-02 08:56:26 INFO  BankMain:67 - Please enter your password or 'quit' to exit the application: 
+2020-01-02 08:56:27 INFO  BankMain:70 - Welcome, u
+2020-01-02 08:56:27 INFO  BankMain:40 - User Options: 
+2020-01-02 08:56:27 INFO  BankMain:47 - 	1. Customer options
+2020-01-02 08:56:27 INFO  BankMain:54 - 	2. Quit
+2020-01-02 08:56:28 INFO  BankMain:30 - Customer options:
+2020-01-02 08:56:28 INFO  BankMain:31 - 	1. Apply for a new account
+2020-01-02 08:56:28 INFO  BankMain:32 - 	2. View an account's balance
+2020-01-02 08:56:28 INFO  BankMain:33 - 	3. Withdraw from an account
+2020-01-02 08:56:28 INFO  BankMain:34 - 	4. Deposit to an account
+2020-01-02 08:56:28 INFO  BankMain:35 - 	5. Transfer center
+2020-01-02 08:56:28 INFO  BankMain:36 - 	6. Back to user options
+2020-01-02 08:56:29 INFO  BankMain:88 - Please enter the ID of the account you wish to view or type 'quit' to return to customer options: 
+2020-01-02 08:56:29 INFO  BankMain:90 - 	1023: yes cerritos
+2020-01-02 08:56:31 INFO  BankMain:238 - Account 1023 with name yes cerritos has a balance of 0
+
+2020-01-02 08:56:31 INFO  BankMain:315 - Returning to customer options
+
+2020-01-02 08:56:31 INFO  BankMain:30 - Customer options:
+2020-01-02 08:56:31 INFO  BankMain:31 - 	1. Apply for a new account
+2020-01-02 08:56:31 INFO  BankMain:32 - 	2. View an account's balance
+2020-01-02 08:56:31 INFO  BankMain:33 - 	3. Withdraw from an account
+2020-01-02 08:56:31 INFO  BankMain:34 - 	4. Deposit to an account
+2020-01-02 08:56:31 INFO  BankMain:35 - 	5. Transfer center
+2020-01-02 08:56:31 INFO  BankMain:36 - 	6. Back to user options
+2020-01-02 08:56:34 INFO  BankMain:111 - Transfer options: 
+2020-01-02 08:56:34 INFO  BankMain:112 - 	1. Post a transfer to another account
+2020-01-02 08:56:34 INFO  BankMain:113 - 	2. View and approve incoming transfers
+2020-01-02 08:56:34 INFO  BankMain:114 - 	3. Return to customer options
+2020-01-02 08:56:35 INFO  BankMain:88 - Please enter the ID of the account you wish to transfer from or type 'quit' to return to transfer options: 
+2020-01-02 08:56:35 INFO  BankMain:90 - 	1023: yes cerritos
+2020-01-02 08:56:37 INFO  BankMain:128 - 
+Please enter the ID of the account you wish to transfer to or 'quit' to return to transfer options: 
+2020-01-02 08:56:37 INFO  BankMain:130 - 	1007: transfertest	User ID: 1000
+2020-01-02 08:56:37 INFO  BankMain:130 - 	1006: callable	User ID: 1
+2020-01-02 08:56:37 INFO  BankMain:130 - 	1005: new	User ID: 1
+2020-01-02 08:56:37 INFO  BankMain:130 - 	1004: test	User ID: 1
+2020-01-02 08:56:37 INFO  BankMain:130 - 	1002: please	User ID: 1
+2020-01-02 08:56:37 INFO  BankMain:130 - 	1023: yes cerritos	User ID: 3
+2020-01-02 08:56:37 INFO  BankMain:130 - 	1000: test	User ID: 1
+2020-01-02 08:56:37 INFO  BankMain:130 - 	1022: pop	User ID: 1
+2020-01-02 08:56:37 INFO  BankMain:130 - 	1020: 2020test	User ID: 1
+2020-01-02 08:56:56 INFO  BankMain:139 - Please enter the amount you wish to transfer from Account 1023 to Account 1007: 
+2020-01-02 08:56:56 INFO  BankMain:140 - Account 1023 balance: 0
+2020-01-02 08:56:58 ERROR BankMain:158 - Please enter an amount less than or equal to account 1023's balance.
+2020-01-02 08:56:58 INFO  BankMain:214 - Returning to transfer options.
+
+2020-01-02 08:56:58 INFO  BankMain:111 - Transfer options: 
+2020-01-02 08:56:58 INFO  BankMain:112 - 	1. Post a transfer to another account
+2020-01-02 08:56:58 INFO  BankMain:113 - 	2. View and approve incoming transfers
+2020-01-02 08:56:58 INFO  BankMain:114 - 	3. Return to customer options
+2020-01-02 08:57:02 ERROR UserBOImpl:176 - There are no pending offers for you.
+2020-01-02 08:57:02 INFO  BankMain:214 - Returning to transfer options.
+
+2020-01-02 08:57:02 INFO  BankMain:111 - Transfer options: 
+2020-01-02 08:57:02 INFO  BankMain:112 - 	1. Post a transfer to another account
+2020-01-02 08:57:02 INFO  BankMain:113 - 	2. View and approve incoming transfers
+2020-01-02 08:57:02 INFO  BankMain:114 - 	3. Return to customer options
+2020-01-02 08:57:03 INFO  BankMain:207 - Returning to customer options.
+
+2020-01-02 08:57:03 INFO  BankMain:315 - Returning to customer options
+
+2020-01-02 08:57:03 INFO  BankMain:30 - Customer options:
+2020-01-02 08:57:03 INFO  BankMain:31 - 	1. Apply for a new account
+2020-01-02 08:57:03 INFO  BankMain:32 - 	2. View an account's balance
+2020-01-02 08:57:03 INFO  BankMain:33 - 	3. Withdraw from an account
+2020-01-02 08:57:03 INFO  BankMain:34 - 	4. Deposit to an account
+2020-01-02 08:57:03 INFO  BankMain:35 - 	5. Transfer center
+2020-01-02 08:57:03 INFO  BankMain:36 - 	6. Back to user options
+2020-01-02 08:57:05 INFO  BankMain:306 - Returning to user options
+
+2020-01-02 08:57:05 INFO  BankMain:40 - User Options: 
+2020-01-02 08:57:05 INFO  BankMain:47 - 	1. Customer options
+2020-01-02 08:57:05 INFO  BankMain:54 - 	2. Quit
+2020-01-02 08:57:06 INFO  BankMain:466 - Thank you for using Bank of Project 0 App. Please come again soon.
+2020-01-02 08:59:16 INFO  BankMain:458 - Welcome to the Bank of Project 0 Application
+2020-01-02 08:59:16 INFO  BankMain:459 - ---------------------------------
+2020-01-02 08:59:16 INFO  BankMain:60 - Please enter your username or 'quit' to exit the application: 
+2020-01-02 08:59:19 INFO  BankMain:67 - Please enter your password or 'quit' to exit the application: 
+2020-01-02 08:59:20 INFO  BankMain:70 - Welcome, s
+2020-01-02 08:59:20 INFO  BankMain:40 - User Options: 
+2020-01-02 08:59:20 INFO  BankMain:47 - 	1. Customer options
+2020-01-02 08:59:20 INFO  BankMain:51 - 	2. Employee options
+2020-01-02 08:59:20 INFO  BankMain:54 - 	3. Quit
+2020-01-02 08:59:21 INFO  BankMain:30 - Customer options:
+2020-01-02 08:59:21 INFO  BankMain:31 - 	1. Apply for a new account
+2020-01-02 08:59:21 INFO  BankMain:32 - 	2. View an account's balance
+2020-01-02 08:59:21 INFO  BankMain:33 - 	3. Withdraw from an account
+2020-01-02 08:59:21 INFO  BankMain:34 - 	4. Deposit to an account
+2020-01-02 08:59:21 INFO  BankMain:35 - 	5. Transfer center
+2020-01-02 08:59:21 INFO  BankMain:36 - 	6. Back to user options
+2020-01-02 08:59:25 INFO  BankMain:111 - Transfer options: 
+2020-01-02 08:59:25 INFO  BankMain:112 - 	1. Post a transfer to another account
+2020-01-02 08:59:25 INFO  BankMain:113 - 	2. View and approve incoming transfers
+2020-01-02 08:59:25 INFO  BankMain:114 - 	3. Return to customer options
+2020-01-02 08:59:26 INFO  BankMain:88 - Please enter the ID of the account you wish to transfer from or type 'quit' to return to transfer options: 
+2020-01-02 08:59:26 INFO  BankMain:90 - 	1007: transfertest
+2020-01-02 08:59:28 INFO  BankMain:128 - 
+Please enter the ID of the account you wish to transfer to or 'quit' to return to transfer options: 
+2020-01-02 08:59:28 INFO  BankMain:132 - 	      1007	transfertest	      1000
+2020-01-02 08:59:28 INFO  BankMain:132 - 	      1006	  callable	         1
+2020-01-02 08:59:28 INFO  BankMain:132 - 	      1005	       new	         1
+2020-01-02 08:59:28 INFO  BankMain:132 - 	      1004	      test	         1
+2020-01-02 08:59:28 INFO  BankMain:132 - 	      1002	    please	         1
+2020-01-02 08:59:28 INFO  BankMain:132 - 	      1023	yes cerritos	         3
+2020-01-02 08:59:28 INFO  BankMain:132 - 	      1000	      test	         1
+2020-01-02 08:59:28 INFO  BankMain:132 - 	      1022	       pop	         1
+2020-01-02 08:59:28 INFO  BankMain:132 - 	      1020	  2020test	         1
+2020-01-02 09:00:00 INFO  BankMain:459 - Welcome to the Bank of Project 0 Application
+2020-01-02 09:00:00 INFO  BankMain:460 - ---------------------------------
+2020-01-02 09:00:00 INFO  BankMain:60 - Please enter your username or 'quit' to exit the application: 
+2020-01-02 09:00:03 INFO  BankMain:67 - Please enter your password or 'quit' to exit the application: 
+2020-01-02 09:00:04 INFO  BankMain:70 - Welcome, s
+2020-01-02 09:00:04 INFO  BankMain:40 - User Options: 
+2020-01-02 09:00:04 INFO  BankMain:47 - 	1. Customer options
+2020-01-02 09:00:04 INFO  BankMain:51 - 	2. Employee options
+2020-01-02 09:00:04 INFO  BankMain:54 - 	3. Quit
+2020-01-02 09:00:08 INFO  BankMain:30 - Customer options:
+2020-01-02 09:00:08 INFO  BankMain:31 - 	1. Apply for a new account
+2020-01-02 09:00:08 INFO  BankMain:32 - 	2. View an account's balance
+2020-01-02 09:00:08 INFO  BankMain:33 - 	3. Withdraw from an account
+2020-01-02 09:00:08 INFO  BankMain:34 - 	4. Deposit to an account
+2020-01-02 09:00:08 INFO  BankMain:35 - 	5. Transfer center
+2020-01-02 09:00:08 INFO  BankMain:36 - 	6. Back to user options
+2020-01-02 09:00:10 INFO  BankMain:111 - Transfer options: 
+2020-01-02 09:00:10 INFO  BankMain:112 - 	1. Post a transfer to another account
+2020-01-02 09:00:10 INFO  BankMain:113 - 	2. View and approve incoming transfers
+2020-01-02 09:00:10 INFO  BankMain:114 - 	3. Return to customer options
+2020-01-02 09:00:11 INFO  BankMain:88 - Please enter the ID of the account you wish to transfer from or type 'quit' to return to transfer options: 
+2020-01-02 09:00:11 INFO  BankMain:90 - 	1007: transfertest
+2020-01-02 09:00:13 INFO  BankMain:128 - 
+Please enter the ID of the account you wish to transfer to or 'quit' to return to transfer options: 
+2020-01-02 09:00:13 INFO  BankMain:129 - 	Account ID	Account Name	User ID
+2020-01-02 09:00:13 INFO  BankMain:133 - 	      1007	transfertest	      1000
+2020-01-02 09:00:13 INFO  BankMain:133 - 	      1006	  callable	         1
+2020-01-02 09:00:13 INFO  BankMain:133 - 	      1005	       new	         1
+2020-01-02 09:00:13 INFO  BankMain:133 - 	      1004	      test	         1
+2020-01-02 09:00:13 INFO  BankMain:133 - 	      1002	    please	         1
+2020-01-02 09:00:13 INFO  BankMain:133 - 	      1023	yes cerritos	         3
+2020-01-02 09:00:13 INFO  BankMain:133 - 	      1000	      test	         1
+2020-01-02 09:00:13 INFO  BankMain:133 - 	      1022	       pop	         1
+2020-01-02 09:00:13 INFO  BankMain:133 - 	      1020	  2020test	         1
+2020-01-02 09:00:17 INFO  BankMain:142 - Please enter the amount you wish to transfer from Account 1007 to Account 1022: 
+2020-01-02 09:00:17 INFO  BankMain:143 - Account 1007 balance: 100
+2020-01-02 09:00:19 INFO  BankMain:146 - Transfer posted and sent to customer 1 for approval.
+2020-01-02 09:00:19 INFO  BankMain:217 - Returning to transfer options.
+
+2020-01-02 09:00:19 INFO  BankMain:111 - Transfer options: 
+2020-01-02 09:00:19 INFO  BankMain:112 - 	1. Post a transfer to another account
+2020-01-02 09:00:19 INFO  BankMain:113 - 	2. View and approve incoming transfers
+2020-01-02 09:00:19 INFO  BankMain:114 - 	3. Return to customer options
+2020-01-02 09:00:22 INFO  BankMain:168 - Displaying all pending transfers to your accounts: 
+2020-01-02 09:00:22 INFO  BankMain:169 - 	Transfer ID	Transfer Amount		Transferring User
+2020-01-02 09:00:22 INFO  BankMain:173 - 	      1004	         9	       tee
+2020-01-02 09:00:22 INFO  BankMain:175 - 
+Please enter the ID of the transfer you wish to accept or reject, or type 'quit' to return to transfer options: 
+2020-01-02 09:00:35 INFO  BankMain:180 - Would you like to accept or reject Transfer 1004?
+2020-01-02 09:00:35 INFO  BankMain:181 - 	ID: 1004
+2020-01-02 09:00:35 INFO  BankMain:182 - 	Amount: 9
+2020-01-02 09:00:35 INFO  BankMain:183 - 	Transferring User: tee
+2020-01-02 09:00:35 INFO  BankMain:184 - Please type 'accept', 'reject' or 'back' to return to the transfer list.
+2020-01-02 09:00:38 INFO  BankMain:192 - Transfer accepted!
+2020-01-02 09:00:38 INFO  BankMain:217 - Returning to transfer options.
+
+2020-01-02 09:00:38 INFO  BankMain:111 - Transfer options: 
+2020-01-02 09:00:38 INFO  BankMain:112 - 	1. Post a transfer to another account
+2020-01-02 09:00:38 INFO  BankMain:113 - 	2. View and approve incoming transfers
+2020-01-02 09:00:38 INFO  BankMain:114 - 	3. Return to customer options
+2020-01-02 09:00:40 INFO  BankMain:88 - Please enter the ID of the account you wish to transfer from or type 'quit' to return to transfer options: 
+2020-01-02 09:00:40 INFO  BankMain:90 - 	1007: transfertest
+2020-01-02 09:00:42 INFO  BankMain:128 - 
+Please enter the ID of the account you wish to transfer to or 'quit' to return to transfer options: 
+2020-01-02 09:00:42 INFO  BankMain:129 - 	Account ID	Account Name	User ID
+2020-01-02 09:00:42 INFO  BankMain:133 - 	      1007	transfertest	      1000
+2020-01-02 09:00:42 INFO  BankMain:133 - 	      1006	  callable	         1
+2020-01-02 09:00:42 INFO  BankMain:133 - 	      1005	       new	         1
+2020-01-02 09:00:42 INFO  BankMain:133 - 	      1004	      test	         1
+2020-01-02 09:00:42 INFO  BankMain:133 - 	      1002	    please	         1
+2020-01-02 09:00:42 INFO  BankMain:133 - 	      1023	yes cerritos	         3
+2020-01-02 09:00:42 INFO  BankMain:133 - 	      1000	      test	         1
+2020-01-02 09:00:42 INFO  BankMain:133 - 	      1022	       pop	         1
+2020-01-02 09:00:42 INFO  BankMain:133 - 	      1020	  2020test	         1
+2020-01-02 09:00:45 INFO  BankMain:142 - Please enter the amount you wish to transfer from Account 1007 to Account 1007: 
+2020-01-02 09:00:45 INFO  BankMain:143 - Account 1007 balance: 109
+2020-01-02 09:00:47 INFO  BankMain:146 - Transfer posted and sent to customer 1000 for approval.
+2020-01-02 09:00:47 INFO  BankMain:217 - Returning to transfer options.
+
+2020-01-02 09:00:47 INFO  BankMain:111 - Transfer options: 
+2020-01-02 09:00:47 INFO  BankMain:112 - 	1. Post a transfer to another account
+2020-01-02 09:00:47 INFO  BankMain:113 - 	2. View and approve incoming transfers
+2020-01-02 09:00:47 INFO  BankMain:114 - 	3. Return to customer options
+2020-01-02 09:00:48 INFO  BankMain:168 - Displaying all pending transfers to your accounts: 
+2020-01-02 09:00:48 INFO  BankMain:169 - 	Transfer ID	Transfer Amount		Transferring User
+2020-01-02 09:00:48 INFO  BankMain:173 - 	      1013	         9	         s
+2020-01-02 09:00:48 INFO  BankMain:175 - 
+Please enter the ID of the transfer you wish to accept or reject, or type 'quit' to return to transfer options: 
+2020-01-02 09:00:51 INFO  BankMain:180 - Would you like to accept or reject Transfer 1013?
+2020-01-02 09:00:51 INFO  BankMain:181 - 	ID: 1013
+2020-01-02 09:00:51 INFO  BankMain:182 - 	Amount: 9
+2020-01-02 09:00:51 INFO  BankMain:183 - 	Transferring User: s
+2020-01-02 09:00:51 INFO  BankMain:184 - Please type 'accept', 'reject' or 'back' to return to the transfer list.
+2020-01-02 09:00:53 INFO  BankMain:197 - Transfer rejected!
+2020-01-02 09:00:53 INFO  BankMain:217 - Returning to transfer options.
+
+2020-01-02 09:00:53 INFO  BankMain:111 - Transfer options: 
+2020-01-02 09:00:53 INFO  BankMain:112 - 	1. Post a transfer to another account
+2020-01-02 09:00:53 INFO  BankMain:113 - 	2. View and approve incoming transfers
+2020-01-02 09:00:53 INFO  BankMain:114 - 	3. Return to customer options
+2020-01-02 09:00:57 ERROR UserBOImpl:176 - There are no pending offers for you.
+2020-01-02 09:00:57 INFO  BankMain:217 - Returning to transfer options.
+
+2020-01-02 09:00:57 INFO  BankMain:111 - Transfer options: 
+2020-01-02 09:00:57 INFO  BankMain:112 - 	1. Post a transfer to another account
+2020-01-02 09:00:57 INFO  BankMain:113 - 	2. View and approve incoming transfers
+2020-01-02 09:00:57 INFO  BankMain:114 - 	3. Return to customer options
+2020-01-02 09:00:59 INFO  BankMain:210 - Returning to customer options.
+
+2020-01-02 09:00:59 INFO  BankMain:318 - Returning to customer options
+
+2020-01-02 09:00:59 INFO  BankMain:30 - Customer options:
+2020-01-02 09:00:59 INFO  BankMain:31 - 	1. Apply for a new account
+2020-01-02 09:00:59 INFO  BankMain:32 - 	2. View an account's balance
+2020-01-02 09:00:59 INFO  BankMain:33 - 	3. Withdraw from an account
+2020-01-02 09:00:59 INFO  BankMain:34 - 	4. Deposit to an account
+2020-01-02 09:00:59 INFO  BankMain:35 - 	5. Transfer center
+2020-01-02 09:00:59 INFO  BankMain:36 - 	6. Back to user options
+2020-01-02 09:01:00 INFO  BankMain:88 - Please enter the ID of the account you wish to view or type 'quit' to return to customer options: 
+2020-01-02 09:01:00 INFO  BankMain:90 - 	1007: transfertest
+2020-01-02 09:01:01 INFO  BankMain:241 - Account 1007 with name transfertest has a balance of 109
+
+2020-01-02 09:01:01 INFO  BankMain:318 - Returning to customer options
+
+2020-01-02 09:01:01 INFO  BankMain:30 - Customer options:
+2020-01-02 09:01:01 INFO  BankMain:31 - 	1. Apply for a new account
+2020-01-02 09:01:01 INFO  BankMain:32 - 	2. View an account's balance
+2020-01-02 09:01:01 INFO  BankMain:33 - 	3. Withdraw from an account
+2020-01-02 09:01:01 INFO  BankMain:34 - 	4. Deposit to an account
+2020-01-02 09:01:01 INFO  BankMain:35 - 	5. Transfer center
+2020-01-02 09:01:01 INFO  BankMain:36 - 	6. Back to user options
+2020-01-02 09:01:09 INFO  BankMain:309 - Returning to user options
+
+2020-01-02 09:01:09 INFO  BankMain:40 - User Options: 
+2020-01-02 09:01:09 INFO  BankMain:47 - 	1. Customer options
+2020-01-02 09:01:09 INFO  BankMain:51 - 	2. Employee options
+2020-01-02 09:01:09 INFO  BankMain:54 - 	3. Quit
+2020-01-02 09:01:10 INFO  BankMain:22 - Employee Options:
+2020-01-02 09:01:10 INFO  BankMain:23 - 	1. Account approval and rejection
+2020-01-02 09:01:10 INFO  BankMain:24 - 	2. View a customer's bank accounts
+2020-01-02 09:01:10 INFO  BankMain:25 - 	3. Log of transactions
+2020-01-02 09:01:10 INFO  BankMain:26 - 	4. Back to user options
+2020-01-02 09:01:11 ERROR UserBOImpl:108 - There are no currently pending accounts.
+2020-01-02 09:01:11 INFO  BankMain:416 - Returning to employee options.
+
+2020-01-02 09:01:11 INFO  BankMain:22 - Employee Options:
+2020-01-02 09:01:11 INFO  BankMain:23 - 	1. Account approval and rejection
+2020-01-02 09:01:11 INFO  BankMain:24 - 	2. View a customer's bank accounts
+2020-01-02 09:01:11 INFO  BankMain:25 - 	3. Log of transactions
+2020-01-02 09:01:11 INFO  BankMain:26 - 	4. Back to user options
+2020-01-02 09:01:12 INFO  BankMain:363 - Please select the customer whose accounts you wish to view or 'quit': 
+2020-01-02 09:01:12 INFO  BankMain:365 - 	1: tee
+2020-01-02 09:01:12 INFO  BankMain:365 - 	3: u
+2020-01-02 09:01:12 INFO  BankMain:365 - 	1000: s
+2020-01-02 09:01:14 INFO  BankMain:371 - 
+Displaying bank accounts for customer 3
+2020-01-02 09:01:14 INFO  BankMain:372 - 	Account ID	Account Name		Account Balance
+2020-01-02 09:01:14 INFO  BankMain:376 - 	      1023	yes cerritos		         0
+2020-01-02 09:01:14 INFO  BankMain:382 - Please select the customer whose accounts you wish to view or 'quit': 
+2020-01-02 09:01:14 INFO  BankMain:384 - 	1: tee
+2020-01-02 09:01:14 INFO  BankMain:384 - 	3: u
+2020-01-02 09:01:14 INFO  BankMain:384 - 	1000: s
+2020-01-02 09:01:18 INFO  BankMain:416 - Returning to employee options.
+
+2020-01-02 09:01:18 INFO  BankMain:22 - Employee Options:
+2020-01-02 09:01:18 INFO  BankMain:23 - 	1. Account approval and rejection
+2020-01-02 09:01:18 INFO  BankMain:24 - 	2. View a customer's bank accounts
+2020-01-02 09:01:18 INFO  BankMain:25 - 	3. Log of transactions
+2020-01-02 09:01:18 INFO  BankMain:26 - 	4. Back to user options
+2020-01-02 09:01:21 INFO  BankMain:392 - Transaction log: 
+2020-01-02 09:01:21 INFO  BankMain:393 - 	Transaction ID	Transaction Date	Transaction Type	Amount	Account 1 ID	 Account 2 ID
+2020-01-02 09:01:21 INFO  BankMain:398 - 	       1001 	 2019-12-28 	              deposit 	         10 	       1002 	       null
+2020-01-02 09:01:21 INFO  BankMain:398 - 	       1002 	 2019-12-28 	           withdrawal 	         20 	       1002 	       null
+2020-01-02 09:01:21 INFO  BankMain:398 - 	       1003 	 2019-12-29 	              deposit 	         99 	       1000 	       null
+2020-01-02 09:01:21 INFO  BankMain:398 - 	       1004 	 2019-12-30 	           withdrawal 	          9 	       1006 	       null
+2020-01-02 09:01:21 INFO  BankMain:398 - 	       1005 	 2019-12-30 	              deposit 	          9 	       1006 	       null
+2020-01-02 09:01:21 INFO  BankMain:398 - 	       1006 	 2019-12-30 	           withdrawal 	          9 	       1006 	       null
+2020-01-02 09:01:21 INFO  BankMain:398 - 	       1007 	 2019-12-30 	              deposit 	          9 	       1006 	       null
+2020-01-02 09:01:21 INFO  BankMain:398 - 	       1008 	 2019-12-30 	           withdrawal 	          9 	       1006 	       null
+2020-01-02 09:01:21 INFO  BankMain:398 - 	       1009 	 2019-12-30 	              deposit 	          9 	       1006 	       null
+2020-01-02 09:01:21 INFO  BankMain:398 - 	       1010 	 2019-12-31 	              deposit 	        100 	       1007 	       null
+2020-01-02 09:01:21 INFO  BankMain:398 - 	       1011 	 2019-12-31 	             TRANSFER 	         10 	       1000 	       1005
+2020-01-02 09:01:21 INFO  BankMain:398 - 	       1013 	 2019-12-31 	             transfer 	         10 	       1005 	       1000
+2020-01-02 09:01:21 INFO  BankMain:398 - 	       1014 	 2019-12-31 	             transfer 	         30 	       1000 	       1002
+2020-01-02 09:01:21 INFO  BankMain:398 - 	       1015 	 2020-01-01 	           withdrawal 	          9 	       1006 	       null
+2020-01-02 09:01:21 INFO  BankMain:398 - 	       1016 	 2020-01-01 	              deposit 	          9 	       1006 	       null
+2020-01-02 09:01:21 INFO  BankMain:398 - 	       1017 	 2020-01-01 	             transfer 	          9 	       1006 	       1000
+2020-01-02 09:01:21 INFO  BankMain:398 - 	       1018 	 2020-01-01 	              deposit 	         20 	       1002 	       null
+2020-01-02 09:01:21 INFO  BankMain:398 - 	       1019 	 2020-01-01 	             transfer 	          9 	       1000 	       1006
+2020-01-02 09:01:21 INFO  BankMain:398 - 	       1020 	 2020-01-01 	             transfer 	         10 	       1000 	       1002
+2020-01-02 09:01:21 INFO  BankMain:398 - 	       1021 	 2020-01-01 	           withdrawal 	        111 	       1023 	       null
+2020-01-02 09:01:21 INFO  BankMain:398 - 	       1022 	 2020-01-02 	             transfer 	          9 	       1006 	       1007
+2020-01-02 09:01:21 INFO  BankMain:400 - 
+
+2020-01-02 09:01:21 INFO  BankMain:416 - Returning to employee options.
+
+2020-01-02 09:01:21 INFO  BankMain:22 - Employee Options:
+2020-01-02 09:01:21 INFO  BankMain:23 - 	1. Account approval and rejection
+2020-01-02 09:01:21 INFO  BankMain:24 - 	2. View a customer's bank accounts
+2020-01-02 09:01:21 INFO  BankMain:25 - 	3. Log of transactions
+2020-01-02 09:01:21 INFO  BankMain:26 - 	4. Back to user options
+2020-01-02 09:01:27 INFO  BankMain:407 - Returning to user options.
+
+2020-01-02 09:01:27 INFO  BankMain:40 - User Options: 
+2020-01-02 09:01:27 INFO  BankMain:47 - 	1. Customer options
+2020-01-02 09:01:27 INFO  BankMain:51 - 	2. Employee options
+2020-01-02 09:01:27 INFO  BankMain:54 - 	3. Quit
+2020-01-02 09:01:28 INFO  BankMain:469 - Thank you for using Bank of Project 0 App. Please come again soon.
+2020-01-02 09:11:42 INFO  BankMain:459 - Welcome to the Bank of Project 0 Application
+2020-01-02 09:11:42 INFO  BankMain:460 - ---------------------------------
+2020-01-02 09:11:42 INFO  BankMain:60 - Please enter your username or 'quit' to exit the application: 
+2020-01-02 09:28:31 INFO  BankMain:492 - Welcome to the Bank of Project 0 Application
+2020-01-02 09:28:31 INFO  BankMain:493 - ---------------------------------
+2020-01-02 09:28:31 INFO  BankMain:90 - Please enter your username or 'quit' to exit the application: 
+2020-01-02 09:28:34 INFO  BankMain:61 - Create a username: 
+2020-01-02 09:28:36 INFO  BankMain:63 - Create a password: 
+2020-01-02 09:28:39 INFO  BankMain:66 - Are you a customer? Enter 1 for yes or 0 for no.
+2020-01-02 09:28:40 INFO  BankMain:68 - Are you an employee? Enter 1 for yes or 0 for no.
+2020-01-02 09:28:43 ERROR UserBOImpl:33 - Username new not found
+2020-01-02 09:28:43 INFO  BankMain:497 - Error logging in. Please try again.
+2020-01-02 09:28:43 INFO  BankMain:504 - Thank you for using Bank of Project 0 App. Please come again soon.
+2020-01-02 09:34:51 INFO  BankMain:499 - Welcome to the Bank of Project 0 Application
+2020-01-02 09:34:51 INFO  BankMain:500 - ---------------------------------
+2020-01-02 09:34:51 INFO  BankMain:97 - Please enter your username or 'quit' to exit the application: 
+2020-01-02 09:34:55 ERROR UserBOImpl:33 - Username t not found
+2020-01-02 09:34:55 INFO  BankMain:504 - Error logging in. Please try again.
+2020-01-02 09:34:55 INFO  BankMain:511 - Thank you for using Bank of Project 0 App. Please come again soon.
+2020-01-02 09:34:59 INFO  BankMain:499 - Welcome to the Bank of Project 0 Application
+2020-01-02 09:34:59 INFO  BankMain:500 - ---------------------------------
+2020-01-02 09:34:59 INFO  BankMain:97 - Please enter your username or 'quit' to exit the application: 
+2020-01-02 09:35:00 INFO  BankMain:61 - Create a username: 
+2020-01-02 09:35:01 INFO  BankMain:63 - Create a password: 
+2020-01-02 09:35:03 INFO  BankMain:66 - Are you a customer? Enter 1 for yes or 0 for no.
+2020-01-02 09:35:03 INFO  BankMain:68 - Are you an employee? Enter 1 for yes or 0 for no.
+2020-01-02 09:35:06 ERROR UserBOImpl:33 - Username new not found
+2020-01-02 09:35:06 INFO  BankMain:504 - Error logging in. Please try again.
+2020-01-02 09:35:06 INFO  BankMain:511 - Thank you for using Bank of Project 0 App. Please come again soon.
+2020-01-02 09:35:21 INFO  BankMain:500 - Welcome to the Bank of Project 0 Application
+2020-01-02 09:35:21 INFO  BankMain:501 - ---------------------------------
+2020-01-02 09:35:21 INFO  BankMain:97 - Please enter your username or 'quit' to exit the application: 
+2020-01-02 09:35:23 INFO  BankMain:61 - Create a username: 
+2020-01-02 09:35:24 INFO  BankMain:63 - Create a password: 
+2020-01-02 09:35:25 INFO  BankMain:66 - Are you a customer? Enter 1 for yes or 0 for no.
+2020-01-02 09:35:26 INFO  BankMain:68 - Are you an employee? Enter 1 for yes or 0 for no.
+2020-01-02 09:35:29 INFO  BankMain:40 - User Options: 
+2020-01-02 09:35:29 INFO  BankMain:43 - 	1. Register for a customer account
+2020-01-02 09:35:29 INFO  BankMain:51 - 	2. Employee options
+2020-01-02 09:35:29 INFO  BankMain:54 - 	3. Quit
+2020-01-02 09:35:32 INFO  BankMain:40 - User Options: 
+2020-01-02 09:35:32 INFO  BankMain:43 - 	1. Register for a customer account
+2020-01-02 09:35:32 INFO  BankMain:51 - 	2. Employee options
+2020-01-02 09:35:32 INFO  BankMain:54 - 	3. Quit
+2020-01-02 09:35:34 INFO  BankMain:512 - Thank you for using Bank of Project 0 App. Please come again soon.
+2020-01-02 09:46:46 INFO  BankMain:503 - Welcome to the Bank of Project 0 Application
+2020-01-02 09:46:46 INFO  BankMain:504 - ---------------------------------
+2020-01-02 09:46:46 INFO  BankMain:97 - Please enter your username or 'quit' to exit the application: 
+2020-01-02 09:46:47 INFO  BankMain:61 - Create a username: 
+2020-01-02 09:46:50 INFO  BankMain:63 - Create a password: 
+2020-01-02 09:46:52 INFO  BankMain:66 - Are you a customer? Enter 1 for yes or 0 for no.
+2020-01-02 09:46:54 INFO  BankMain:68 - Are you an employee? Enter 1 for yes or 0 for no.
+2020-01-02 09:46:57 INFO  BankMain:40 - User Options: 
+2020-01-02 09:46:57 INFO  BankMain:47 - 	1. Customer options
+2020-01-02 09:46:57 INFO  BankMain:54 - 	2. Quit
+2020-01-02 09:46:59 INFO  BankMain:30 - Customer options:
+2020-01-02 09:46:59 INFO  BankMain:31 - 	1. Apply for a new account
+2020-01-02 09:46:59 INFO  BankMain:32 - 	2. View an account's balance
+2020-01-02 09:46:59 INFO  BankMain:33 - 	3. Withdraw from an account
+2020-01-02 09:46:59 INFO  BankMain:34 - 	4. Deposit to an account
+2020-01-02 09:46:59 INFO  BankMain:35 - 	5. Transfer center
+2020-01-02 09:46:59 INFO  BankMain:36 - 	6. Back to user options
+2020-01-02 09:47:01 ERROR UserBOImpl:142 - You have no open accounts yet.
+2020-01-02 09:47:01 INFO  BankMain:359 - Returning to customer options
+
+2020-01-02 09:47:01 INFO  BankMain:30 - Customer options:
+2020-01-02 09:47:01 INFO  BankMain:31 - 	1. Apply for a new account
+2020-01-02 09:47:01 INFO  BankMain:32 - 	2. View an account's balance
+2020-01-02 09:47:01 INFO  BankMain:33 - 	3. Withdraw from an account
+2020-01-02 09:47:01 INFO  BankMain:34 - 	4. Deposit to an account
+2020-01-02 09:47:01 INFO  BankMain:35 - 	5. Transfer center
+2020-01-02 09:47:01 INFO  BankMain:36 - 	6. Back to user options
+2020-01-02 09:47:04 INFO  BankMain:350 - Returning to user options
+
+2020-01-02 09:47:04 INFO  BankMain:40 - User Options: 
+2020-01-02 09:47:04 INFO  BankMain:47 - 	1. Customer options
+2020-01-02 09:47:04 INFO  BankMain:54 - 	2. Quit
+2020-01-02 09:47:05 INFO  BankMain:515 - Thank you for using Bank of Project 0 App. Please come again soon.
+2020-01-02 09:47:30 INFO  BankMain:503 - Welcome to the Bank of Project 0 Application
+2020-01-02 09:47:30 INFO  BankMain:504 - ---------------------------------
+2020-01-02 09:47:30 INFO  BankMain:97 - Please enter your username, 'new' to create a new user account, 'quit' to exit the application: 
+2020-01-02 09:47:32 INFO  BankMain:61 - Create a username: 
+2020-01-02 09:47:35 INFO  BankMain:63 - Create a password: 
+2020-01-02 09:47:36 INFO  BankMain:66 - Are you a customer? Enter 1 for yes or 0 for no.
+2020-01-02 09:47:38 INFO  BankMain:68 - Are you an employee? Enter 1 for yes or 0 for no.
+2020-01-02 09:47:40 INFO  BankMain:40 - User Options: 
+2020-01-02 09:47:40 INFO  BankMain:43 - 	1. Register for a customer account
+2020-01-02 09:47:40 INFO  BankMain:51 - 	2. Employee options
+2020-01-02 09:47:40 INFO  BankMain:54 - 	3. Quit
+2020-01-02 09:47:41 INFO  BankMain:40 - User Options: 
+2020-01-02 09:47:41 INFO  BankMain:47 - 	1. Customer options
+2020-01-02 09:47:41 INFO  BankMain:51 - 	2. Employee options
+2020-01-02 09:47:41 INFO  BankMain:54 - 	3. Quit
+2020-01-02 09:47:41 INFO  BankMain:30 - Customer options:
+2020-01-02 09:47:41 INFO  BankMain:31 - 	1. Apply for a new account
+2020-01-02 09:47:41 INFO  BankMain:32 - 	2. View an account's balance
+2020-01-02 09:47:41 INFO  BankMain:33 - 	3. Withdraw from an account
+2020-01-02 09:47:41 INFO  BankMain:34 - 	4. Deposit to an account
+2020-01-02 09:47:41 INFO  BankMain:35 - 	5. Transfer center
+2020-01-02 09:47:41 INFO  BankMain:36 - 	6. Back to user options
+2020-01-02 09:47:43 INFO  BankMain:350 - Returning to user options
+
+2020-01-02 09:47:43 INFO  BankMain:40 - User Options: 
+2020-01-02 09:47:43 INFO  BankMain:47 - 	1. Customer options
+2020-01-02 09:47:43 INFO  BankMain:51 - 	2. Employee options
+2020-01-02 09:47:43 INFO  BankMain:54 - 	3. Quit
+2020-01-02 09:47:45 INFO  BankMain:515 - Thank you for using Bank of Project 0 App. Please come again soon.
+2020-01-02 10:17:43 INFO  BankMain:503 - Welcome to the Bank of Project 0 Application
+2020-01-02 10:17:43 INFO  BankMain:504 - ---------------------------------
+2020-01-02 10:17:43 INFO  BankMain:97 - Please enter your username, 'new' to create a new user account, 'quit' to exit the application: 
+2020-01-02 10:17:46 INFO  BankMain:61 - Create a username: 
+2020-01-02 10:24:20 INFO  BankMain:63 - Create a password: 
+2020-01-02 10:24:21 INFO  BankMain:66 - Are you a customer? Enter 1 for yes or 0 for no.
+2020-01-02 10:24:21 INFO  BankMain:68 - Are you an employee? Enter 1 for yes or 0 for no.
+2020-01-02 10:24:24 ERROR UserBOImpl:209 - Internal error occurred.
+2020-01-02 10:25:04 INFO  BankMain:503 - Welcome to the Bank of Project 0 Application
+2020-01-02 10:25:04 INFO  BankMain:504 - ---------------------------------
+2020-01-02 10:25:04 INFO  BankMain:97 - Please enter your username, 'new' to create a new user account, 'quit' to exit the application: 
+2020-01-02 10:25:06 INFO  BankMain:61 - Create a username: 
+2020-01-02 10:25:08 INFO  BankMain:63 - Create a password: 
+2020-01-02 10:25:09 INFO  BankMain:66 - Are you a customer? Enter 1 for yes or 0 for no.
+2020-01-02 10:25:09 INFO  BankMain:68 - Are you an employee? Enter 1 for yes or 0 for no.
+2020-01-02 10:25:11 ERROR UserBOImpl:209 - Internal error occurred.
+2020-01-02 10:25:11 ERROR BankMain:89 - Error creating account
+2020-01-02 10:25:11 INFO  BankMain:40 - User Options: 
+2020-01-02 10:25:11 INFO  BankMain:47 - 	1. Customer options
+2020-01-02 10:25:11 INFO  BankMain:51 - 	2. Employee options
+2020-01-02 10:25:11 INFO  BankMain:54 - 	3. Quit
+2020-01-02 10:25:14 INFO  BankMain:515 - Thank you for using Bank of Project 0 App. Please come again soon.
+2020-01-02 10:25:57 INFO  BankMain:504 - Welcome to the Bank of Project 0 Application
+2020-01-02 10:25:57 INFO  BankMain:505 - ---------------------------------
+2020-01-02 10:25:57 INFO  BankMain:98 - Please enter your username, 'new' to create a new user account, 'quit' to exit the application: 
+2020-01-02 10:25:59 INFO  BankMain:61 - Create a username: 
+2020-01-02 10:26:00 INFO  BankMain:63 - Create a password: 
+2020-01-02 10:26:01 INFO  BankMain:66 - Are you a customer? Enter 1 for yes or 0 for no.
+2020-01-02 10:26:02 INFO  BankMain:68 - Are you an employee? Enter 1 for yes or 0 for no.
+2020-01-02 10:26:04 ERROR UserBOImpl:209 - Internal error occurred.
+2020-01-02 10:26:04 ERROR BankMain:89 - Error creating account
+2020-01-02 10:26:04 INFO  BankMain:509 - Error logging in. Please try again.
+2020-01-02 10:26:04 INFO  BankMain:516 - Thank you for using Bank of Project 0 App. Please come again soon.
+2020-01-02 10:56:48 INFO  BankMain:504 - Welcome to the Bank of Project 0 Application
+2020-01-02 10:56:48 INFO  BankMain:505 - ---------------------------------
+2020-01-02 10:56:48 INFO  BankMain:98 - Please enter your username, 'new' to create a new user account, 'quit' to exit the application: 
+2020-01-02 10:57:17 INFO  BankMain:61 - Create a username: 
+2020-01-02 10:57:21 INFO  BankMain:63 - Create a password: 
+2020-01-02 10:57:22 INFO  BankMain:66 - Are you a customer? Enter 1 for yes or 0 for no.
+2020-01-02 10:57:22 INFO  BankMain:68 - Are you an employee? Enter 1 for yes or 0 for no.
+2020-01-02 10:57:24 ERROR UserBOImpl:209 - Internal error occurred.
+2020-01-02 10:57:24 ERROR BankMain:89 - Error creating account
+2020-01-02 10:57:24 INFO  BankMain:509 - Error logging in. Please try again.
+2020-01-02 10:57:24 INFO  BankMain:516 - Thank you for using Bank of Project 0 App. Please come again soon.
+2020-01-02 10:57:27 INFO  BankMain:504 - Welcome to the Bank of Project 0 Application
+2020-01-02 10:57:27 INFO  BankMain:505 - ---------------------------------
+2020-01-02 10:57:27 INFO  BankMain:98 - Please enter your username, 'new' to create a new user account, 'quit' to exit the application: 
+2020-01-02 10:57:30 INFO  BankMain:61 - Create a username: 
+2020-01-02 10:57:31 INFO  BankMain:63 - Create a password: 
+2020-01-02 10:57:33 INFO  BankMain:66 - Are you a customer? Enter 1 for yes or 0 for no.
+2020-01-02 10:57:34 INFO  BankMain:68 - Are you an employee? Enter 1 for yes or 0 for no.
+2020-01-02 10:57:41 INFO  BankMain:40 - User Options: 
+2020-01-02 10:57:41 INFO  BankMain:47 - 	1. Customer options
+2020-01-02 10:57:41 INFO  BankMain:51 - 	2. Employee options
+2020-01-02 10:57:41 INFO  BankMain:54 - 	3. Quit
+2020-01-02 10:57:44 INFO  BankMain:30 - Customer options:
+2020-01-02 10:57:44 INFO  BankMain:31 - 	1. Apply for a new account
+2020-01-02 10:57:44 INFO  BankMain:32 - 	2. View an account's balance
+2020-01-02 10:57:44 INFO  BankMain:33 - 	3. Withdraw from an account
+2020-01-02 10:57:44 INFO  BankMain:34 - 	4. Deposit to an account
+2020-01-02 10:57:44 INFO  BankMain:35 - 	5. Transfer center
+2020-01-02 10:57:44 INFO  BankMain:36 - 	6. Back to user options
+2020-01-02 10:57:46 INFO  BankMain:270 - Please enter the name of your new account or 'quit' to return to customer options: 
+2020-01-02 10:57:48 INFO  BankMain:274 - Please enter the starting balance of the account or 'quit' to return to customer options: 
+2020-01-02 10:57:50 INFO  UserBOImpl:50 - Account has been sent for approval by an employee.
+
+2020-01-02 10:57:50 INFO  BankMain:360 - Returning to customer options
+
+2020-01-02 10:57:50 INFO  BankMain:30 - Customer options:
+2020-01-02 10:57:50 INFO  BankMain:31 - 	1. Apply for a new account
+2020-01-02 10:57:50 INFO  BankMain:32 - 	2. View an account's balance
+2020-01-02 10:57:50 INFO  BankMain:33 - 	3. Withdraw from an account
+2020-01-02 10:57:50 INFO  BankMain:34 - 	4. Deposit to an account
+2020-01-02 10:57:50 INFO  BankMain:35 - 	5. Transfer center
+2020-01-02 10:57:50 INFO  BankMain:36 - 	6. Back to user options
+2020-01-02 10:57:53 INFO  BankMain:351 - Returning to user options
+
+2020-01-02 10:57:53 INFO  BankMain:40 - User Options: 
+2020-01-02 10:57:53 INFO  BankMain:47 - 	1. Customer options
+2020-01-02 10:57:53 INFO  BankMain:51 - 	2. Employee options
+2020-01-02 10:57:53 INFO  BankMain:54 - 	3. Quit
+2020-01-02 10:57:54 INFO  BankMain:22 - Employee Options:
+2020-01-02 10:57:54 INFO  BankMain:23 - 	1. Account approval and rejection
+2020-01-02 10:57:54 INFO  BankMain:24 - 	2. View a customer's bank accounts
+2020-01-02 10:57:54 INFO  BankMain:25 - 	3. Log of transactions
+2020-01-02 10:57:54 INFO  BankMain:26 - 	4. Back to user options
+2020-01-02 10:57:55 INFO  BankMain:130 - Please select the account you wish to approve or reject, or type 'quit' to return to employee options: 
+2020-01-02 10:57:55 INFO  BankMain:132 - 	1024: newaccount
+2020-01-02 10:57:59 INFO  BankMain:376 - Would you like to approve or reject Account newaccount?
+2020-01-02 10:57:59 INFO  BankMain:377 - 	ID: 1024
+2020-01-02 10:57:59 INFO  BankMain:378 - 	Starting Balance: 1000
+2020-01-02 10:57:59 INFO  BankMain:379 - Please type 'approve', 'reject', or 'back' to return to employee options.
+2020-01-02 10:58:02 INFO  BankMain:384 - Account 1024 approved.
+
+2020-01-02 10:58:02 INFO  BankMain:458 - Returning to employee options.
+
+2020-01-02 10:58:02 INFO  BankMain:22 - Employee Options:
+2020-01-02 10:58:02 INFO  BankMain:23 - 	1. Account approval and rejection
+2020-01-02 10:58:02 INFO  BankMain:24 - 	2. View a customer's bank accounts
+2020-01-02 10:58:02 INFO  BankMain:25 - 	3. Log of transactions
+2020-01-02 10:58:02 INFO  BankMain:26 - 	4. Back to user options
+2020-01-02 10:58:04 INFO  BankMain:449 - Returning to user options.
+
+2020-01-02 10:58:04 INFO  BankMain:40 - User Options: 
+2020-01-02 10:58:04 INFO  BankMain:47 - 	1. Customer options
+2020-01-02 10:58:04 INFO  BankMain:51 - 	2. Employee options
+2020-01-02 10:58:04 INFO  BankMain:54 - 	3. Quit
+2020-01-02 10:58:05 INFO  BankMain:30 - Customer options:
+2020-01-02 10:58:05 INFO  BankMain:31 - 	1. Apply for a new account
+2020-01-02 10:58:05 INFO  BankMain:32 - 	2. View an account's balance
+2020-01-02 10:58:05 INFO  BankMain:33 - 	3. Withdraw from an account
+2020-01-02 10:58:05 INFO  BankMain:34 - 	4. Deposit to an account
+2020-01-02 10:58:05 INFO  BankMain:35 - 	5. Transfer center
+2020-01-02 10:58:05 INFO  BankMain:36 - 	6. Back to user options
+2020-01-02 10:58:06 INFO  BankMain:130 - Please enter the ID of the account you wish to view or type 'quit' to return to customer options: 
+2020-01-02 10:58:06 INFO  BankMain:132 - 	1024: newaccount
+2020-01-02 10:58:09 INFO  BankMain:283 - Account 1024 with name newaccount has a balance of 1000
+
+2020-01-02 10:58:09 INFO  BankMain:360 - Returning to customer options
+
+2020-01-02 10:58:09 INFO  BankMain:30 - Customer options:
+2020-01-02 10:58:09 INFO  BankMain:31 - 	1. Apply for a new account
+2020-01-02 10:58:09 INFO  BankMain:32 - 	2. View an account's balance
+2020-01-02 10:58:09 INFO  BankMain:33 - 	3. Withdraw from an account
+2020-01-02 10:58:09 INFO  BankMain:34 - 	4. Deposit to an account
+2020-01-02 10:58:09 INFO  BankMain:35 - 	5. Transfer center
+2020-01-02 10:58:09 INFO  BankMain:36 - 	6. Back to user options
+2020-01-02 10:58:13 INFO  BankMain:130 - Please enter the ID of the account you wish to withdraw from or type 'quit' to return to customer options: 
+2020-01-02 10:58:13 INFO  BankMain:132 - 	1024: newaccount
+2020-01-02 10:58:16 INFO  BankMain:291 - Please enter the amount you wish to withdraw from this account or 'quit' to return to customer options: 
+2020-01-02 10:58:16 INFO  BankMain:292 - Current balance: 1000
+2020-01-02 10:58:17 INFO  BankMain:302 - Withdrawal complete! Account 1024 now has a balance of 0
+
+2020-01-02 10:58:17 INFO  BankMain:360 - Returning to customer options
+
+2020-01-02 10:58:17 INFO  BankMain:30 - Customer options:
+2020-01-02 10:58:17 INFO  BankMain:31 - 	1. Apply for a new account
+2020-01-02 10:58:17 INFO  BankMain:32 - 	2. View an account's balance
+2020-01-02 10:58:17 INFO  BankMain:33 - 	3. Withdraw from an account
+2020-01-02 10:58:17 INFO  BankMain:34 - 	4. Deposit to an account
+2020-01-02 10:58:17 INFO  BankMain:35 - 	5. Transfer center
+2020-01-02 10:58:17 INFO  BankMain:36 - 	6. Back to user options
+2020-01-02 10:58:20 INFO  BankMain:130 - Please enter the ID of the account you wish to deposit to or type 'quit' to return to customer options: 
+2020-01-02 10:58:20 INFO  BankMain:132 - 	1024: newaccount
+2020-01-02 10:58:22 ERROR BankMain:138 - Account ID not found. Please enter the name of an account listed.
+
+2020-01-02 10:58:22 INFO  BankMain:143 - Please enter the ID of the account you wish to deposit to or type 'quit' to return to customer options: 
+2020-01-02 10:58:22 INFO  BankMain:145 - 	1024: newaccount
+2020-01-02 10:58:24 INFO  BankMain:322 - Please enter the amount you wish to deposit to this account or 'quit' to return to customer options: 
+2020-01-02 10:58:24 INFO  BankMain:323 - Current balance: 0
+2020-01-02 10:58:28 INFO  BankMain:333 - Deposit complete! Account 1024 now has a balance of 1000
+
+2020-01-02 10:58:28 INFO  BankMain:360 - Returning to customer options
+
+2020-01-02 10:58:28 INFO  BankMain:30 - Customer options:
+2020-01-02 10:58:28 INFO  BankMain:31 - 	1. Apply for a new account
+2020-01-02 10:58:28 INFO  BankMain:32 - 	2. View an account's balance
+2020-01-02 10:58:28 INFO  BankMain:33 - 	3. Withdraw from an account
+2020-01-02 10:58:28 INFO  BankMain:34 - 	4. Deposit to an account
+2020-01-02 10:58:28 INFO  BankMain:35 - 	5. Transfer center
+2020-01-02 10:58:28 INFO  BankMain:36 - 	6. Back to user options
+2020-01-02 10:58:30 INFO  BankMain:153 - Transfer options: 
+2020-01-02 10:58:30 INFO  BankMain:154 - 	1. Post a transfer to another account
+2020-01-02 10:58:30 INFO  BankMain:155 - 	2. View and approve incoming transfers
+2020-01-02 10:58:30 INFO  BankMain:156 - 	3. Return to customer options
+2020-01-02 10:58:32 INFO  BankMain:130 - Please enter the ID of the account you wish to transfer from or type 'quit' to return to transfer options: 
+2020-01-02 10:58:32 INFO  BankMain:132 - 	1024: newaccount
+2020-01-02 10:58:33 INFO  BankMain:170 - 
+Please enter the ID of the account you wish to transfer to or 'quit' to return to transfer options: 
+2020-01-02 10:58:33 INFO  BankMain:171 - 	Account ID	Account Name	User ID
+2020-01-02 10:58:33 INFO  BankMain:175 - 	      1007	transfertest	      1000
+2020-01-02 10:58:33 INFO  BankMain:175 - 	      1006	  callable	         1
+2020-01-02 10:58:33 INFO  BankMain:175 - 	      1005	       new	         1
+2020-01-02 10:58:33 INFO  BankMain:175 - 	      1004	      test	         1
+2020-01-02 10:58:33 INFO  BankMain:175 - 	      1002	    please	         1
+2020-01-02 10:58:33 INFO  BankMain:175 - 	      1024	newaccount	      1029
+2020-01-02 10:58:33 INFO  BankMain:175 - 	      1023	yes cerritos	         3
+2020-01-02 10:58:33 INFO  BankMain:175 - 	      1000	      test	         1
+2020-01-02 10:58:33 INFO  BankMain:175 - 	      1022	       pop	         1
+2020-01-02 10:58:33 INFO  BankMain:175 - 	      1020	  2020test	         1
+2020-01-02 10:58:45 INFO  BankMain:184 - Please enter the amount you wish to transfer from Account 1024 to Account 1005: 
+2020-01-02 10:58:45 INFO  BankMain:185 - Account 1024 balance: 1000
+2020-01-02 10:58:49 INFO  BankMain:188 - Transfer posted and sent to customer 1 for approval.
+2020-01-02 10:58:49 INFO  BankMain:259 - Returning to transfer options.
+
+2020-01-02 10:58:49 INFO  BankMain:153 - Transfer options: 
+2020-01-02 10:58:49 INFO  BankMain:154 - 	1. Post a transfer to another account
+2020-01-02 10:58:49 INFO  BankMain:155 - 	2. View and approve incoming transfers
+2020-01-02 10:58:49 INFO  BankMain:156 - 	3. Return to customer options
+2020-01-02 10:58:52 ERROR UserBOImpl:176 - There are no pending offers for you.
+2020-01-02 10:58:52 INFO  BankMain:259 - Returning to transfer options.
+
+2020-01-02 10:58:52 INFO  BankMain:153 - Transfer options: 
+2020-01-02 10:58:52 INFO  BankMain:154 - 	1. Post a transfer to another account
+2020-01-02 10:58:52 INFO  BankMain:155 - 	2. View and approve incoming transfers
+2020-01-02 10:58:52 INFO  BankMain:156 - 	3. Return to customer options
+2020-01-02 10:58:58 INFO  BankMain:252 - Returning to customer options.
+
+2020-01-02 10:58:58 INFO  BankMain:360 - Returning to customer options
+
+2020-01-02 10:58:58 INFO  BankMain:30 - Customer options:
+2020-01-02 10:58:58 INFO  BankMain:31 - 	1. Apply for a new account
+2020-01-02 10:58:58 INFO  BankMain:32 - 	2. View an account's balance
+2020-01-02 10:58:58 INFO  BankMain:33 - 	3. Withdraw from an account
+2020-01-02 10:58:58 INFO  BankMain:34 - 	4. Deposit to an account
+2020-01-02 10:58:58 INFO  BankMain:35 - 	5. Transfer center
+2020-01-02 10:58:58 INFO  BankMain:36 - 	6. Back to user options
+2020-01-02 10:59:05 INFO  BankMain:351 - Returning to user options
+
+2020-01-02 10:59:05 INFO  BankMain:40 - User Options: 
+2020-01-02 10:59:05 INFO  BankMain:47 - 	1. Customer options
+2020-01-02 10:59:05 INFO  BankMain:51 - 	2. Employee options
+2020-01-02 10:59:05 INFO  BankMain:54 - 	3. Quit
+2020-01-02 10:59:06 INFO  BankMain:22 - Employee Options:
+2020-01-02 10:59:06 INFO  BankMain:23 - 	1. Account approval and rejection
+2020-01-02 10:59:06 INFO  BankMain:24 - 	2. View a customer's bank accounts
+2020-01-02 10:59:06 INFO  BankMain:25 - 	3. Log of transactions
+2020-01-02 10:59:06 INFO  BankMain:26 - 	4. Back to user options
+2020-01-02 10:59:08 ERROR UserBOImpl:108 - There are no currently pending accounts.
+2020-01-02 10:59:08 INFO  BankMain:458 - Returning to employee options.
+
+2020-01-02 10:59:08 INFO  BankMain:22 - Employee Options:
+2020-01-02 10:59:08 INFO  BankMain:23 - 	1. Account approval and rejection
+2020-01-02 10:59:08 INFO  BankMain:24 - 	2. View a customer's bank accounts
+2020-01-02 10:59:08 INFO  BankMain:25 - 	3. Log of transactions
+2020-01-02 10:59:08 INFO  BankMain:26 - 	4. Back to user options
+2020-01-02 10:59:08 ERROR BankMain:456 - Please enter a number associated with an option.
+
+2020-01-02 10:59:08 INFO  BankMain:458 - Returning to employee options.
+
+2020-01-02 10:59:08 INFO  BankMain:22 - Employee Options:
+2020-01-02 10:59:08 INFO  BankMain:23 - 	1. Account approval and rejection
+2020-01-02 10:59:08 INFO  BankMain:24 - 	2. View a customer's bank accounts
+2020-01-02 10:59:08 INFO  BankMain:25 - 	3. Log of transactions
+2020-01-02 10:59:08 INFO  BankMain:26 - 	4. Back to user options
+2020-01-02 10:59:15 ERROR UserBOImpl:108 - There are no currently pending accounts.
+2020-01-02 10:59:15 INFO  BankMain:458 - Returning to employee options.
+
+2020-01-02 10:59:15 INFO  BankMain:22 - Employee Options:
+2020-01-02 10:59:15 INFO  BankMain:23 - 	1. Account approval and rejection
+2020-01-02 10:59:15 INFO  BankMain:24 - 	2. View a customer's bank accounts
+2020-01-02 10:59:15 INFO  BankMain:25 - 	3. Log of transactions
+2020-01-02 10:59:15 INFO  BankMain:26 - 	4. Back to user options
+2020-01-02 10:59:19 INFO  BankMain:405 - Please select the customer whose accounts you wish to view or 'quit': 
+2020-01-02 10:59:19 INFO  BankMain:407 - 	1: tee
+2020-01-02 10:59:19 INFO  BankMain:407 - 	1029: this
+2020-01-02 10:59:19 INFO  BankMain:407 - 	3: u
+2020-01-02 10:59:19 INFO  BankMain:407 - 	1023: rey
+2020-01-02 10:59:19 INFO  BankMain:407 - 	1022: poe
+2020-01-02 10:59:19 INFO  BankMain:407 - 	1000: s
+2020-01-02 10:59:19 INFO  BankMain:407 - 	1020: t
+2020-01-02 10:59:24 INFO  BankMain:413 - 
+Displaying bank accounts for customer 1029
+2020-01-02 10:59:24 INFO  BankMain:414 - 	Account ID	Account Name		Account Balance
+2020-01-02 10:59:24 INFO  BankMain:418 - 	      1024	newaccount		      1000
+2020-01-02 10:59:24 INFO  BankMain:424 - Please select the customer whose accounts you wish to view or 'quit': 
+2020-01-02 10:59:24 INFO  BankMain:426 - 	1: tee
+2020-01-02 10:59:24 INFO  BankMain:426 - 	1029: this
+2020-01-02 10:59:24 INFO  BankMain:426 - 	3: u
+2020-01-02 10:59:24 INFO  BankMain:426 - 	1023: rey
+2020-01-02 10:59:24 INFO  BankMain:426 - 	1022: poe
+2020-01-02 10:59:24 INFO  BankMain:426 - 	1000: s
+2020-01-02 10:59:24 INFO  BankMain:426 - 	1020: t
+2020-01-02 10:59:34 INFO  BankMain:458 - Returning to employee options.
+
+2020-01-02 10:59:34 INFO  BankMain:22 - Employee Options:
+2020-01-02 10:59:34 INFO  BankMain:23 - 	1. Account approval and rejection
+2020-01-02 10:59:34 INFO  BankMain:24 - 	2. View a customer's bank accounts
+2020-01-02 10:59:34 INFO  BankMain:25 - 	3. Log of transactions
+2020-01-02 10:59:34 INFO  BankMain:26 - 	4. Back to user options
+2020-01-02 10:59:36 INFO  BankMain:434 - Transaction log: 
+2020-01-02 10:59:36 INFO  BankMain:435 - 	Transaction ID	Transaction Date	Transaction Type	Amount	Account 1 ID	 Account 2 ID
+2020-01-02 10:59:36 INFO  BankMain:440 - 	       1001 	 2019-12-28 	              deposit 	         10 	       1002 	       null
+2020-01-02 10:59:36 INFO  BankMain:440 - 	       1002 	 2019-12-28 	           withdrawal 	         20 	       1002 	       null
+2020-01-02 10:59:36 INFO  BankMain:440 - 	       1003 	 2019-12-29 	              deposit 	         99 	       1000 	       null
+2020-01-02 10:59:36 INFO  BankMain:440 - 	       1004 	 2019-12-30 	           withdrawal 	          9 	       1006 	       null
+2020-01-02 10:59:36 INFO  BankMain:440 - 	       1005 	 2019-12-30 	              deposit 	          9 	       1006 	       null
+2020-01-02 10:59:36 INFO  BankMain:440 - 	       1006 	 2019-12-30 	           withdrawal 	          9 	       1006 	       null
+2020-01-02 10:59:36 INFO  BankMain:440 - 	       1007 	 2019-12-30 	              deposit 	          9 	       1006 	       null
+2020-01-02 10:59:36 INFO  BankMain:440 - 	       1008 	 2019-12-30 	           withdrawal 	          9 	       1006 	       null
+2020-01-02 10:59:36 INFO  BankMain:440 - 	       1009 	 2019-12-30 	              deposit 	          9 	       1006 	       null
+2020-01-02 10:59:36 INFO  BankMain:440 - 	       1010 	 2019-12-31 	              deposit 	        100 	       1007 	       null
+2020-01-02 10:59:36 INFO  BankMain:440 - 	       1011 	 2019-12-31 	             TRANSFER 	         10 	       1000 	       1005
+2020-01-02 10:59:36 INFO  BankMain:440 - 	       1013 	 2019-12-31 	             transfer 	         10 	       1005 	       1000
+2020-01-02 10:59:36 INFO  BankMain:440 - 	       1014 	 2019-12-31 	             transfer 	         30 	       1000 	       1002
+2020-01-02 10:59:36 INFO  BankMain:440 - 	       1015 	 2020-01-01 	           withdrawal 	          9 	       1006 	       null
+2020-01-02 10:59:36 INFO  BankMain:440 - 	       1016 	 2020-01-01 	              deposit 	          9 	       1006 	       null
+2020-01-02 10:59:36 INFO  BankMain:440 - 	       1017 	 2020-01-01 	             transfer 	          9 	       1006 	       1000
+2020-01-02 10:59:36 INFO  BankMain:440 - 	       1018 	 2020-01-01 	              deposit 	         20 	       1002 	       null
+2020-01-02 10:59:36 INFO  BankMain:440 - 	       1019 	 2020-01-01 	             transfer 	          9 	       1000 	       1006
+2020-01-02 10:59:36 INFO  BankMain:440 - 	       1020 	 2020-01-01 	             transfer 	         10 	       1000 	       1002
+2020-01-02 10:59:36 INFO  BankMain:440 - 	       1021 	 2020-01-01 	           withdrawal 	        111 	       1023 	       null
+2020-01-02 10:59:36 INFO  BankMain:440 - 	       1022 	 2020-01-02 	             transfer 	          9 	       1006 	       1007
+2020-01-02 10:59:36 INFO  BankMain:440 - 	       1023 	 2020-01-02 	           withdrawal 	       1000 	       1024 	       null
+2020-01-02 10:59:36 INFO  BankMain:440 - 	       1024 	 2020-01-02 	              deposit 	       1000 	       1024 	       null
+2020-01-02 10:59:36 INFO  BankMain:442 - 
+
+2020-01-02 10:59:36 INFO  BankMain:458 - Returning to employee options.
+
+2020-01-02 10:59:36 INFO  BankMain:22 - Employee Options:
+2020-01-02 10:59:36 INFO  BankMain:23 - 	1. Account approval and rejection
+2020-01-02 10:59:36 INFO  BankMain:24 - 	2. View a customer's bank accounts
+2020-01-02 10:59:36 INFO  BankMain:25 - 	3. Log of transactions
+2020-01-02 10:59:36 INFO  BankMain:26 - 	4. Back to user options
+2020-01-02 10:59:41 INFO  BankMain:449 - Returning to user options.
+
+2020-01-02 10:59:41 INFO  BankMain:40 - User Options: 
+2020-01-02 10:59:41 INFO  BankMain:47 - 	1. Customer options
+2020-01-02 10:59:41 INFO  BankMain:51 - 	2. Employee options
+2020-01-02 10:59:41 INFO  BankMain:54 - 	3. Quit
+2020-01-02 10:59:42 INFO  BankMain:516 - Thank you for using Bank of Project 0 App. Please come again soon.
+2020-01-02 10:59:44 INFO  BankMain:504 - Welcome to the Bank of Project 0 Application
+2020-01-02 10:59:44 INFO  BankMain:505 - ---------------------------------
+2020-01-02 10:59:44 INFO  BankMain:98 - Please enter your username, 'new' to create a new user account, 'quit' to exit the application: 
+2020-01-02 10:59:47 INFO  BankMain:109 - Please enter your password or 'quit' to exit the application: 
+2020-01-02 10:59:48 INFO  BankMain:112 - Welcome, tee
+2020-01-02 10:59:48 INFO  BankMain:40 - User Options: 
+2020-01-02 10:59:48 INFO  BankMain:47 - 	1. Customer options
+2020-01-02 10:59:48 INFO  BankMain:51 - 	2. Employee options
+2020-01-02 10:59:48 INFO  BankMain:54 - 	3. Quit
+2020-01-02 10:59:50 INFO  BankMain:30 - Customer options:
+2020-01-02 10:59:50 INFO  BankMain:31 - 	1. Apply for a new account
+2020-01-02 10:59:50 INFO  BankMain:32 - 	2. View an account's balance
+2020-01-02 10:59:50 INFO  BankMain:33 - 	3. Withdraw from an account
+2020-01-02 10:59:50 INFO  BankMain:34 - 	4. Deposit to an account
+2020-01-02 10:59:50 INFO  BankMain:35 - 	5. Transfer center
+2020-01-02 10:59:50 INFO  BankMain:36 - 	6. Back to user options
+2020-01-02 10:59:51 INFO  BankMain:153 - Transfer options: 
+2020-01-02 10:59:51 INFO  BankMain:154 - 	1. Post a transfer to another account
+2020-01-02 10:59:51 INFO  BankMain:155 - 	2. View and approve incoming transfers
+2020-01-02 10:59:51 INFO  BankMain:156 - 	3. Return to customer options
+2020-01-02 10:59:53 INFO  BankMain:210 - Displaying all pending transfers to your accounts: 
+2020-01-02 10:59:53 INFO  BankMain:211 - 	Transfer ID	Transfer Amount		Transferring User
+2020-01-02 10:59:53 INFO  BankMain:215 - 	      1014	      1000	      this
+2020-01-02 10:59:53 INFO  BankMain:215 - 	      1012	        10	         s
+2020-01-02 10:59:53 INFO  BankMain:217 - 
+Please enter the ID of the transfer you wish to accept or reject, or type 'quit' to return to transfer options: 
+2020-01-02 11:00:00 INFO  BankMain:222 - Would you like to accept or reject Transfer 1014?
+2020-01-02 11:00:00 INFO  BankMain:223 - 	ID: 1014
+2020-01-02 11:00:00 INFO  BankMain:224 - 	Amount: 1000
+2020-01-02 11:00:00 INFO  BankMain:225 - 	Transferring User: this
+2020-01-02 11:00:00 INFO  BankMain:226 - Please type 'accept', 'reject' or 'back' to return to the transfer list.
+2020-01-02 11:00:03 INFO  BankMain:234 - Transfer accepted!
+2020-01-02 11:00:03 INFO  BankMain:259 - Returning to transfer options.
+
+2020-01-02 11:00:03 INFO  BankMain:153 - Transfer options: 
+2020-01-02 11:00:03 INFO  BankMain:154 - 	1. Post a transfer to another account
+2020-01-02 11:00:03 INFO  BankMain:155 - 	2. View and approve incoming transfers
+2020-01-02 11:00:03 INFO  BankMain:156 - 	3. Return to customer options
+2020-01-02 11:00:05 INFO  BankMain:252 - Returning to customer options.
+
+2020-01-02 11:00:05 INFO  BankMain:360 - Returning to customer options
+
+2020-01-02 11:00:05 INFO  BankMain:30 - Customer options:
+2020-01-02 11:00:05 INFO  BankMain:31 - 	1. Apply for a new account
+2020-01-02 11:00:05 INFO  BankMain:32 - 	2. View an account's balance
+2020-01-02 11:00:05 INFO  BankMain:33 - 	3. Withdraw from an account
+2020-01-02 11:00:05 INFO  BankMain:34 - 	4. Deposit to an account
+2020-01-02 11:00:05 INFO  BankMain:35 - 	5. Transfer center
+2020-01-02 11:00:05 INFO  BankMain:36 - 	6. Back to user options
+2020-01-02 11:00:07 INFO  BankMain:130 - Please enter the ID of the account you wish to view or type 'quit' to return to customer options: 
+2020-01-02 11:00:07 INFO  BankMain:132 - 	1006: callable
+2020-01-02 11:00:07 INFO  BankMain:132 - 	1005: new
+2020-01-02 11:00:07 INFO  BankMain:132 - 	1004: test
+2020-01-02 11:00:07 INFO  BankMain:132 - 	1002: please
+2020-01-02 11:00:07 INFO  BankMain:132 - 	1000: test
+2020-01-02 11:00:07 INFO  BankMain:132 - 	1022: pop
+2020-01-02 11:00:07 INFO  BankMain:132 - 	1020: 2020test
+2020-01-02 11:00:10 INFO  BankMain:283 - Account 1005 with name new has a balance of 1420
+
+2020-01-02 11:00:10 INFO  BankMain:360 - Returning to customer options
+
+2020-01-02 11:00:10 INFO  BankMain:30 - Customer options:
+2020-01-02 11:00:10 INFO  BankMain:31 - 	1. Apply for a new account
+2020-01-02 11:00:10 INFO  BankMain:32 - 	2. View an account's balance
+2020-01-02 11:00:10 INFO  BankMain:33 - 	3. Withdraw from an account
+2020-01-02 11:00:10 INFO  BankMain:34 - 	4. Deposit to an account
+2020-01-02 11:00:10 INFO  BankMain:35 - 	5. Transfer center
+2020-01-02 11:00:10 INFO  BankMain:36 - 	6. Back to user options
+2020-01-02 11:00:15 INFO  BankMain:351 - Returning to user options
+
+2020-01-02 11:00:15 INFO  BankMain:40 - User Options: 
+2020-01-02 11:00:15 INFO  BankMain:47 - 	1. Customer options
+2020-01-02 11:00:15 INFO  BankMain:51 - 	2. Employee options
+2020-01-02 11:00:15 INFO  BankMain:54 - 	3. Quit
+2020-01-02 11:00:20 INFO  BankMain:516 - Thank you for using Bank of Project 0 App. Please come again soon.
